@@ -5,7 +5,7 @@
 **[AVISO]** *Os links citados aqui foram extraidos a partir de vários sites e são para uso de estudo, estou compartilhando para que possam assim como eu aprender, espero não ter infrigido nenhum direito autoral; e caso seu site, repositório ou qualquer outro link esteja aqui e o dono não gostaria que estivesse, por favor entre em contato para que possa retirar* **!AGRADEÇO A COMPREENSÃO!**
 
 
-### Índice
+## Índice
 
 * [Motivação](#motivacao)
 * [Introdutório da Área](#introdutorio-da-area)
@@ -737,7 +737,7 @@ Sim! Valem mais que mil Palavras..
 
 **Dunnin-Krueger Effect**![Dunnin-Krueger Effect](img\Dunnin-Krueger Effect.jpg)
 
-**Graduação**![Graduação](img\Graduação.jpg)
+**Graduação**![Graduação](..\img\Graduação.jpg)
 
 **Information Data Science**![Information Data Science](img\Information Data Science.jpg)
 
