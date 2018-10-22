@@ -41,7 +41,7 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
 
-* [Índice](#indice)
+[Índice](#indice)
 
 
 ## Introdutório da Área
@@ -171,7 +171,7 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
-* [índice](#indice)
+* [Índice](#indice)
 
 
 ## O que é Ciência de Dados?
@@ -192,7 +192,7 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Big Data "Eurekas!" Não aconteça apenas](https://hbr.org/2012/11/eureka-doesnt-just-happen) [EN-US]
 
 
-* [índice](#indice)
+[Índice](#indice)
 
 
 ## Curso Online Aberto e Gratuitos (MOOC's)
@@ -239,7 +239,7 @@ e pode conquistar seu certificado por um preço que cabe no seu bolso.
 - [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
 
 
-* [índice](#indice)
+[Índice](#indice)
 
 
 ## Conjuntos de Dados (Datasets)
@@ -286,7 +286,7 @@ Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para es
 - [Open Government Data Platform India](https://data.gov.in/) [EN-US] - É uma plataforma para apoiar a iniciativa Open Data do Governo da Índia. 
 
 
-* [índice](#indice)
+[Índice](#indice)
 
 
 ## Blogs
@@ -367,9 +367,7 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [Vooo](https://www.vooo.pro/insights/category/data-science/) [EN-US] - Notícias e textos sobre Ciência de Dados.
 - [Bitfactor](https://bitfactor.fi/en/blog/) [EN-US] - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
 
-
-* [índice](#indice)
-
+[Índice](#indice)
 
 ## Computação
 
