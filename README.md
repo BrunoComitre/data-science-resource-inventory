@@ -41,6 +41,9 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
 
+* [índice](#indice)
+
+
 ## Introdutório da Área
 
 **Primeiro **
@@ -168,6 +171,9 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
+* [índice](#indice)
+
+
 ## O que é Ciência de Dados?
 
 Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados:
@@ -184,6 +190,9 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Cientistas de Dados Sexy e Sociais](https://www.forbes.com/sites/gilpress/2012/11/24/big-data-news-of-the-week-sexy-and-social-data-scientists/#69ffb385aa1e) [EN-US]
 - [Dados de Opinião como Ciências Sociais](https://www.information-management.com/opinion/data-as-a-social-science) [EN-US]
 - [Big Data "Eurekas!" Não aconteça apenas](https://hbr.org/2012/11/eureka-doesnt-just-happen) [EN-US]
+
+
+* [índice](#indice)
 
 
 ## Curso Online Aberto e Gratuitos (MOOC's)
@@ -230,6 +239,9 @@ e pode conquistar seu certificado por um preço que cabe no seu bolso.
 - [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
 
 
+* [índice](#indice)
+
+
 ## Conjuntos de Dados (Datasets)
 
 Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para estudo e aprendizagens:
@@ -272,6 +284,9 @@ Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para es
 - [GHTorrent](http://ghtorrent.org/) [EN-US] - Um espelho de dados escalonável, consultável e offline oferecido pela API REST do Github.
 - [Microsoft Research Open Data](https://msropendata.com/) [EN-US] - Uma coleção de conjuntos de dados gratuitos da Microsoft Research para promover pesquisas de ponta em áreas como processamento de linguagem natural, visão computacional e ciências específicas de domínio.
 - [Open Government Data Platform India](https://data.gov.in/) [EN-US] - É uma plataforma para apoiar a iniciativa Open Data do Governo da Índia. 
+
+
+* [índice](#indice)
 
 
 ## Blogs
@@ -353,6 +368,9 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [Bitfactor](https://bitfactor.fi/en/blog/) [EN-US] - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
 
 
+* [índice](#indice)
+
+
 ## Computação
 
 Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assuntos relacionados a computação no geral:
@@ -371,6 +389,9 @@ Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assun
 - [SBC - Sociedade Brasileira de Computação](http://www.sbc.org.br/) [PT-BR] - Sociedade científica que reúne estudantes, professores e profissionais da Computação e Informática de todo o Brasil. O principal objetivo desta instituição é incentivar a pesquisa e o ensino em Computação.
 - [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal) [PT-BR] - É uma wiki para organização de grupos de estudo ou pesquisa em todos os níveis e suas informações, como anotações, bibliografias, discussões e informações práticas.
 - [DevBrasil](http://devbrasil.net/) [PT-BR] - A maior rede social para desenvolvedores de software no Brasil aprendendo, compartilhando e conquistando novas oportunidades.
+
+
+* [índice](#indice)
 
 
 ## Canais, Playlists e Vídeos do YouTube
@@ -402,6 +423,9 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Video [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk) [EN-US] - Fala sobre aprendizagem profunda.
 - Video [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk) [EN-US] - Definição, fornecer alguns exemplos de aprendizado de máquina e explicar em alto nível como o aprendizado de máquina funciona.
 - Video [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o) [EN-US] - Esta palestra é direcionada para qualquer pessoa que seja apaixonada por entender algoritmos e códigos para definir e alavancar padrões em dados.
+
+
+* [índice](#indice)
 
 
 ## Ferramentas de um Cientista de Dados
@@ -468,6 +492,9 @@ Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de D
 - [RED HAT - OpenShift](https://www.openshift.com/) - Implantação e gerenciamento de softwares baseados em container. Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
 
 
+* [índice](#indice)
+
+
 ## Visualização, Ambientes e Bibliotecas
 
 Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientista de Dados: 
@@ -517,6 +544,9 @@ Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientis
 - [Amazon Web Services Cloud](https://aws.amazon.com/pt/) - É uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.
 
 
+* [índice](#indice)
+
+
 ## Revistas
 
 Segue abaixo uma lista de sites preferidos para se manter informado, tanto em tecnologias quanto em Ciência de Dados, e porque não uns ativismos:
@@ -550,6 +580,9 @@ Segue abaixo uma lista de sites preferidos para se manter informado, tanto em te
 - [Big Data & Society](http://journals.sagepub.com/home/bds) [EN-US] - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
 - [Medium Data Science Topic](https://medium.com/topic/data-science) [EN-US] - Publicações relacionadas à Ciência de Dados no Medium.
+
+
+* [índice](#indice)
 
 
 ## Bons Textos Separados
@@ -619,6 +652,9 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Catálogo de Visualização de Dados - Todos os Gráficos](https://datavizcatalogue.com/ES/index.html) [ES-ES]
 
 
+* [índice](#indice)
+
+
 ## Livros
 
 Segue abaixo uma lista livros pagos e gratuitos:
@@ -648,6 +684,9 @@ Segue abaixo uma lista livros pagos e gratuitos:
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
 
 
+* [índice](#indice)
+
+
 ## Competições de Ciência de Dados e Desafios de Programação
 
 Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados:
@@ -660,6 +699,9 @@ Segue abaixo uma lista de sites para por em prática o conhecimento de Análise 
 - [The Data Science Game](http://www.datasciencegame.com/) [EN-US] - Um desafio estudantil internacional.
 - [InnoCentive](https://www.innocentive.com/) [EN-US] - Pioneira global em inovação em crowdsourcing. 
 - [TuneedIT](http://tunedit.org/challenges) [EN-US] - Desafios de Algoritmos de Aprendizado de Máquina e Mineração de Dados.
+
+
+* [índice](#indice)
 
 
 ## Tutoriais
@@ -705,6 +747,9 @@ Forma facil e correta de fazer a instalação e a configuração:
 - [DOCKERHUB - jupyter/datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/) [EN-US] - Pilha de Ciência de Dados do Notebook Jupyter.
 
 
+* [índice](#indice)
+
+
 ## Outras Listas Impressionantes
 
 Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 a capacidade desta lista para se conhecer Ciência de Dados:
@@ -732,6 +777,9 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 - [20 Big Data Repositories You Should Check Out](https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1) [EN-US] - 20 grandes repositórios de dados que você deve verificar.
 
 
+* [índice](#indice)
+
+
 ## Links de pesquisa Pirata
 
 Como achar mais coisas sobre qualquer coisa, incluindo a temática Data Science?
@@ -748,6 +796,9 @@ A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana 
 [Z-Library](http://b-ok.xyz/) - A biblioteca Z é uma das maiores bibliotecas online do mundo. Pretendemos tornar a literatura acessível a todos. 
 
 [startpage](https://www.startpage.com/por/?#hmb) - Mecanismo de pesquisa mais privado do Mundo.
+
+
+* [índice](#indice)
 
 
 ## Imagens
