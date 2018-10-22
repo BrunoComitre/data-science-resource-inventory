@@ -19,7 +19,7 @@
 * [Visualização, Ambientes e Bibliotecas](#visualizao-ambientes--bibliotecas)
 * [Revistas](#revistas)
 * [Livros](#livros)
-* [Competições de Ciência de Dados e Desafios de Programação](#competies-de-cincia-de-dados--desafios-de-programao)
+* [Desafios de Ciência de Dados e Programação](#desafios-de-programao)
 * [Tutoriais](#tutoriais)
 * [Outras Listas Impressionantes](#outras-listas-impressionantes)
 * [Links de pesquisa Pirata](#links-de-pesquisa-pirata)
@@ -686,8 +686,7 @@ Segue abaixo uma lista livros pagos e gratuitos:
 
 * [índice](#indice)
 
-
-## Competições de Ciência de Dados e Desafios de Programação
+## Desafios de Ciência de Dados e Programação
 
 Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados:
 
