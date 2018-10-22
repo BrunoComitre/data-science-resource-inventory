@@ -41,7 +41,7 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
 
-[Índice](#indice)
+[Índice](#ndice)
 
 
 ## Introdutório da Área
