@@ -26,7 +26,7 @@
 * [Imagens](#imagens)
 
 
-## Motivação
+## Motivo
 
 <u>*Esta parte é para Jovens Padawans em Ciência de Dados*</u>
 
@@ -41,7 +41,7 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
 
-## Introdução
+## Início
 
 **Primeiro **
 
@@ -168,7 +168,7 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
-## O que é Ciência de Dados?
+## O que é Ciência de Dados
 
 Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados:
 
@@ -404,7 +404,7 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Video [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o) [EN-US] - Esta palestra é direcionada para qualquer pessoa que seja apaixonada por entender algoritmos e códigos para definir e alavancar padrões em dados.
 
 
-## Ferramentas de um Cientista de Dados
+## Ferramentas
 
 Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de Dados, não sei e não testei todas, porém vale a pena saberem que existem:
 
@@ -468,7 +468,7 @@ Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de D
 - [RED HAT - OpenShift](https://www.openshift.com/) - Implantação e gerenciamento de softwares baseados em container. Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
 
 
-## Ambientes de Visualização e Bibliotecas
+## Ambientes e Bibliotecas
 
 Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientista de Dados: 
 
@@ -648,7 +648,7 @@ Segue abaixo uma lista livros pagos e gratuitos:
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
 
 
-## Desafios de DS e Programação
+## Desafios
 
 Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados:
 
