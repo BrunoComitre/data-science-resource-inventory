@@ -8,7 +8,7 @@
 ## Índice
 
 * [Motivo](#motivo)
-* [Início](#inicio)
+* [Inicio](#inicio)
 * [O que é Ciência de Dados?](#o-que-ciencia-de-dados)
 * [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
 * [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
@@ -41,7 +41,7 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
 
-## Início
+## Inicio
 
 **Primeiro **
 
