@@ -13,7 +13,7 @@
 * [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
 * [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
 * [Blogs](#blogs)
-* [Computação](#computacao)
+* [Computacional](#computacional)
 * [Canais, Playlists e Vídeos do YouTube](#canais-playlists-e-videos-do-youtube)
 * [Ferramentas de um Cientista de Dados](#ferramentas)
 * [Visualização, Ambientes e Bibliotecas](#visualizao-ambientes--bibliotecas)
@@ -367,9 +367,11 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [Vooo](https://www.vooo.pro/insights/category/data-science/) [EN-US] - Notícias e textos sobre Ciência de Dados.
 - [Bitfactor](https://bitfactor.fi/en/blog/) [EN-US] - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
 
+
 [Índice](#indice)
 
-## Computação
+
+## Computacional
 
 Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assuntos relacionados a computação no geral:
 
