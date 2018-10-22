@@ -9,7 +9,7 @@
 
 * [Motivo](#motivo)
 * [Inicio](#inicio)
-* [Ciência de Dados](#ciencia-de-dados)
+* [Ciência de Dados](#dados)
 * [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
 * [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
 * [Blogs](#blogs)
