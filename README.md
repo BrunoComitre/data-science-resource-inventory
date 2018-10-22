@@ -9,7 +9,7 @@
 
 * [Motivo](#motivo)
 * [Inicio](#inicio)
-* [Ciência de Dados](#dados)
+* [Cientista de Dados](#cientista-de-dados)
 * [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
 * [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
 * [Blogs](#blogs)
@@ -43,7 +43,7 @@ Por fim, grande parte do links são referentes a **Python** atualmente, a mais u
 
 ## Inicio
 
-**Primeiro **
+**Primeiro**
 
 Aprenda Python: 
 
@@ -159,7 +159,7 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 
 ***
 
-**Observações: **
+**Observações:**
 
 - O roteiro acima não é o único e nem necessariamente o melhor caminho para se aprender; ele reflete o que eu pretendo adquirir como conhecimento e tenho anotado em encontros e palestras e conversas em minha trajetória na área.
 
@@ -168,7 +168,7 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
-## Ciência de Dados
+## Cientista de Dados
 
 Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados:
 
