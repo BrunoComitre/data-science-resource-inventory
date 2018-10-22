@@ -720,6 +720,7 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 - [The Free Big Data Sources Everyone Should Know](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know) [EN-US] - As fontes gratuitas de Big Data que todos devem conhecer.
 - [20 Big Data Repositories You Should Check Out](https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1) [EN-US] - 20 grandes repositórios de dados que você deve verificar.
 
+
 ## Links de pesquisa Pirata
 
 Como achar mais coisas sobre qualquer coisa, incluindo a temática Data Science?
