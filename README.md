@@ -9,7 +9,7 @@
 
 * [Motivo](#motivo)
 * [Inicio](#inicio)
-* [O que é Ciência de Dados](#o-que-ciencia-de-dados)
+* [Ciência de Dados](#ciencia-de-dados)
 * [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
 * [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
 * [Blogs](#blogs)
@@ -168,7 +168,7 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
-## O que é Ciência de Dados
+## Ciência de Dados
 
 Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados:
 
