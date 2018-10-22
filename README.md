@@ -43,7 +43,8 @@ Por fim, grande parte do links são referentes a **Python** atualmente, a mais u
 
 ## Introdutório da Área
 
-**Primeiro ** 
+**Primeiro **
+
 Aprenda Python: 
 
 Não precisa conhecer o Python no modo PRO, por exemplo, mas para entrar nesse mundo é preciso certos conhecimentos básicos:
@@ -51,6 +52,7 @@ Não precisa conhecer o Python no modo PRO, por exemplo, mas para entrar nesse m
 - Não sabe Python? Super Recomendo Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/course/curso-python-3/)
 
 **Segundo**
+
 Prepare o PC:
 
 Sugiro o Anaconda Navigator para quem está iniciando os estudos nesse ramo. É Open Source para as linguagens de programação Python e R. E tem todas as ferramentas necessárias.
@@ -60,6 +62,7 @@ Sugiro o Anaconda Navigator para quem está iniciando os estudos nesse ramo. É 
 - Agora, também pode utilizar uma IDE. Eu particularmente recomendo o [Visual Studio Code](https://code.visualstudio.com/)
 
 **Terceiro**
+
 Bibliotecas:
 
 A seguir, algumas bibliotecas voltadas ao estudo em Ciência de Dados. Existem várias bibliotecas que podem ser utilizadas, facilitando a análise de dados. Algumas bibliotecas must-have para aprendizado:
@@ -81,9 +84,11 @@ A seguir, algumas bibliotecas voltadas ao estudo em Ciência de Dados. Existem v
 - [**Scikit-learn**](http://scikit-learn.org/stable/install.html) - Biblioteca em Python com tudo quanto é tipo de algoritmo.
 
 **Observação:**
+
 Para quem pretende lidar com redes neurais/deep learning, é uma outra trilha. Existem quatro grandes frameworks: TensorFlow, Keras, PyTorch e Theano. Sendo TensorFolw o mais conhecido e utilizado.
 
 **Quarto**
+
 TensorFlow:
 
 Primeiro conheça o  [Playground Tensorflow](http://playground.tensorflow.org/)
@@ -109,6 +114,7 @@ Nos tutoriais isso fica claro, mas eu reforço: aprenda a usar o TensorBoard, ge
  - [Swiss AI Lab IDSIA](http://ischlag.github.io/about/)
 
 **Quarto:**
+
 Algumas coisas mais
 
 - Sua conta no [Kaggle](http://www.kaggle.com/), é obrigatória.
@@ -116,6 +122,7 @@ Algumas coisas mais
 - Databases históricos e clássicos. Tem na [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 
 **Dicas Valiosas**
+
 Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 
 1. Conheça a trilha feita por leonardo ferreira que em 1 ano e meio se tornou cientista de dados e está na posição 30 mundial como cientista de dados Kaggle: [LINK](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/)
@@ -128,6 +135,7 @@ Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 ***
 
 **Meio que obrigatóriamente, entenda:**
+
 - Modelagem Preditiva.
 - Naive Bayes.
 - Análise de Séries Temporais e Visualização.
@@ -152,9 +160,11 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 ***
 
 **Observações: **
+
 - O roteiro acima não é o único e nem necessariamente o melhor caminho para se aprender; ele reflete o que eu pretendo adquirir como conhecimento e tenho anotado em encontros e palestras e conversas em minha trajetória na área.
 
 **Lembrem-se!**
+
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 
@@ -654,9 +664,10 @@ Segue abaixo uma lista de sites para por em prática o conhecimento de Análise 
 
 ## Tutoriais
 
-Segue abaixo uma lista de tutoriais que fiz e mantenho salvo para que possam ajudar mais pessoas: 
+Segue abaixo uma lista de tutoriais que fiz e mantenho salvo para que possam ajudar mais pessoas:
+
 - [Redes Neurais Artificiais](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/) [PT-BR] - Você verá nesta página um tutorial introdutório sobre Redes Neurais Artificiais, em especial sobre as Redes Multi Layer Perceptron treinadas com BackPropagation.
-- [Ciência de Dados usando Python e R](https://github.com/jadianes/data-science-your-way) [EN-US] - Formas de fazer Engenharia de Dados e Aprendizagem de Máquina em R e Python
+- [Ciência de Dados usando Python e R](https://github.com/jadianes/data-science-your-way) [EN-US] - Formas de fazer Engenharia de Dados e Aprendizagem de Máquina em R e Python.
 
 
 **MARKDOWN:**
