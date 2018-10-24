@@ -31,7 +31,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
   
 
 ***
-# **LISTA DE "SOBREVIVÊNCIA" PARA A PRODUÇÃO ACADÊMICA **
+# **LISTA DE "SOBREVIVÊNCIA" PARA A PRODUÇÃO ACADÊMICA**
 
   
 
