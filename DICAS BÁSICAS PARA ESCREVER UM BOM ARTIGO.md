@@ -44,7 +44,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
   - [Write & Improve](https://writeandimprove.com/) [EN-US] - Write & Improve é uma ferramenta gratuita para alunos de inglês que marca a escrita em segundos. É fornecido em associação com Cambridge English (parte da Universidade de Cambridge).
   - [LanguageTool](https://languagetool.org/) [EN-US] - O LanguageTool oferece verificação ortográfica e gramatical. Apenas cole o seu texto aqui e clique no botão 'Check Text'. Clique nas frases coloridas para detalhes sobre possíveis erros. ou use este texto também veja alguns dos problemas que o LanguageTool pode detectar. 
 
-- **Contador de palavras repetidas: **
+- **Contador de palavras repetidas:**
   - [Grupo de Lingüística da Insite](http://linguistica.insite.com.br/corpus.php) [PT-BR] - Contador de palavras - Gere relatório estatístico sobre um texto - Processador Lingüístico de Corpus.
   - [Word Counter 360º](http://pt.wordcounter360.com/) [PT-BR] - WordCounter360 ° é um contador de palavras e caracteres online e gratuito. É uma ferramenta para contar quantos caracteres, letras, sinais, palavras, frases e parágrafos estão em um texto. 
   - [Write Words](http://www.writewords.org.uk/word_count.asp) [EN-US] - Contador de Frequência de Palavras, permite que você conte o uso de frequência de cada palavra em seu texto. Cole ou digite seu texto abaixo e clique em enviar. Experimente também o nosso contador de frequência de frase.
@@ -54,11 +54,11 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
   - [I Love PDF](https://www.ilovepdf.com/pt) [PT-BR] - Ferramentas online e completamente gratuita para juntar PDF, dividir PDF, comprimir PDF, converter documentos Office para PDF, conversão de PDF para JPG, e JPG para PDF. Não requer instalação.
   - [Small PDF](https://smallpdf.com/pt) [PT-BR] -  Ferramentas online e completamente gratuita para juntar PDF, dividir PDF, comprimir PDF, converter documentos Office para PDF, conversão de PDF para JPG, e JPG para PDF. Não requer instalação.
 
-- **Conferir se é plágio: **
+- **Conferir se é plágio:**
   - [Plagium](http://www.plagium.com/) [EN-US] - Rastreie o uso colando ou digitando seu texto original, com até 5.000 caracteres.
   - [Plagiarisma](http://plagiarisma.net/) [EN-US] - Verificador de plágio online gratuito para professores e alunos. Alternativa Copyscape e Turnitin.
 
-- **Quebrar chaves de artigos pagos: **
+- **Quebrar chaves de artigos pagos:**
 
   - [Sci-Hub](http://sci-hub.tw/) [EN-US] - O Sci-Hub é um repositório online com mais de 64 milhões artigos científicos, disponíveis no seu website. Novos documentos são enviados diariamente através de domínios de instituições de ensino, que contornam sistemas que restringem o acesso a usuários da Internet sem registros pagos em seus sites.
 
@@ -66,7 +66,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Plataforma Sucupira](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf) [PT-BR] -  É uma nova e importante ferramenta para coletar informações, realizar análises e avaliações e ser a base de referência do Sistema Nacional de Pós-Graduação (SNPG). A Plataforma deve disponibilizar em tempo real e com muito mais transparência as informações, processos e procedimentos que a CAPES realiza no SNPG para toda a comunidade acadêmica.
 
-- **Dicionário de sinônimos: **
+- **Dicionário de sinônimos:**
 
   - [Sinônimos](https://www.sinonimos.com.br/) [PT-BR] -  Um dicionário de sinônimos online de português do Brasil com mais de 30 mil sinônimos de palavras e expressões para consulta. Use a pesquisa para encontrar sinônimos para as palavras que procura.
 
@@ -74,7 +74,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Antônimos](https://www.antonimos.com.br/dor/) [PT-BR] - O antônimos é um dos maiores dicionários online da língua portuguesa.
 
-- **Dicionário de sinônimos em inglês: **
+- **Dicionário de sinônimos em inglês:**
   - [Thesaurus](https://www.thesaurus.com/) [EN-US] - O Thesaurus é o maior e mais confiável dicionário de sinônimos on-line gratuito.
   - [Dicionary](https://www.dictionary.com/) [EN-US] - O Dictionary é a principal fonte on-line do mundo para definições em inglês, sinônimos, origens de palavras, pronúncias de áudio, frases de exemplo, frases de gíria, expressões idiomáticas, jogos de palavras, termos jurídicos e médicos, Palavra do Dia e muito mais.
 
@@ -83,7 +83,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
   - [EndNote | Clarivate Analytics](www.myendnoteweb.com) [EN-US] - O EndNote é a ferramenta de software padrão do setor para publicação e gerenciamento de bibliografias, citações e referências na área de trabalho do Windows e Macintosh.
   - [Zotero](https://www.zotero.org/) [EN-US] - O Zotero é uma ferramenta gratuita e fácil de usar para ajudá-lo a coletar, organizar, citar e compartilhar pesquisas.
 
-- **Manual super completo sobre Mendeley feito pela bibliotecária Thais Moraes: **
+- **Manual super completo sobre Mendeley feito pela bibliotecária Thais Moraes:**
 
   - [Mendeley: Manual do Usuário](https://www.slideshare.net/ThaisMoraes7/mendeley-2017-73612874?from_m_app=android) [PT-BR] - Manual de utilização da ferramenta Mendeley contendo as etapas para gerenciar, compartilhar, ler, anotar e editar artigos científicos, além de ser uma rede social acadêmica para descobrir tendências de investigação e para conectar-se a outros pesquisadores na área de interesse. 
 
@@ -91,7 +91,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Plataforma Lattes CNPq](http://lattes.cnpq.br/) [PT-BR] - A Plataforma Lattes representa a experiência do CNPq na integração de bases de dados de Currículos, de Grupos de pesquisa e de Instituições em um único Sistema de Informações. Sua dimensão atual se estende não só às ações de planejamento, gestão e operacionalização do fomento do CNPq, mas também de outras agências de fomento federais e estaduais, das fundações estaduais de apoio à ciência e tecnologia, das instituições de ensino superior e dos institutos de pesquisa. Além disso, se tornou estratégica não só para as atividades de planejamento e gestão, mas também para a formulação das políticas do Ministério de Ciência e Tecnologia e de outros órgãos governamentais da área de ciência, tecnologia e inovação.
 
-- **Base de periódicos da Capes: **
+- **Base de periódicos da Capes:**
 
   - [Portal de Periódicos CAPES/MEC](http://www.periodicos.capes.gov.br/) [PT-BR] - O Portal de Periódicos tem o objetivo de fortalecer a pós-graduação no Brasil, o Ministério da Educação (MEC) criou o programa para bibliotecas de Instituições de Ensino Superior (IES). Foi a partir dessa iniciativa que, cinco anos mais tarde, foi criado o Programa de Apoio à Aquisição de Periódicos (PAAP). O Programa está na origem do atual serviço de periódicos eletrônicos oferecido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) à comunidade acadêmica brasileira.
 
@@ -99,7 +99,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Plataforma Brasil](http://plataformabrasil.saude.gov.br/login.jsf) [PT-BR] - A Plataforma Brasil é uma base nacional e unificada de registros de pesquisas envolvendo seres humanos para todo o sistema CEP/CONEP. Ela permite que as pesquisas sejam acompanhadas em seus diferentes estágios - desde sua submissão até a aprovação final pelo CEP e pela CONEP, quando necessário - possibilitando inclusive o acompanhamento da fase de campo, o envio de relatórios parciais e dos relatórios finais das pesquisas (quando concluídas).
 
-- **Redes sociais para pesquisadores: **
+- **Redes sociais para pesquisadores:**
   - [ResearchGate](https://www.researchgate.net/) [EN-US] - ResearchGate é a rede profissional para cientistas e pesquisadores. Mais de 15 milhões de membros de todo o mundo usam para compartilhar, descobrir e discutir pesquisas. Somos guiados pela nossa missão de conectar o mundo da ciência e tornar a pesquisa aberta a todos.
   - [Academia](https://www.academia.edu/) [EN-US] - A Academia é a maneira mais fácil de compartilhar documentos com milhões de pessoas em todo o mundo gratuitamente.
 
@@ -112,7 +112,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
   - [4shared](https://www.4shared.com/) [EN-US] - 4shared oferece gratuitamente aos seus usuários serviços de hospedagem e compartilhamento on-line. 
   - [Passeidireto](https://www.passeidireto.com/) [PT-BR] - É uma rede acadêmica para universitários que tem como missão conectar alunos de todo o Brasil. Por meio do site e dos nossos aplicativos, os estudantes podem se conectar uns aos outros, seguir disciplinas específicas, compartilhar materiais de estudo e tirar dúvidas uns com os outros.
 
-- **Tutorial de como gravar vídeo aula ou entrevistas online sem ter que baixar qualquer sofware: **
+- **Tutorial de como gravar vídeo aula ou entrevistas online sem ter que baixar qualquer sofware:**
 
   - Canal [LM Tech](https://www.youtube.com/watch?v=ffQQmNiVLCQ) [PT-BR] - Aprenda neste vídeo a como gravar a tela do seu PC sem baixar ou utilizar nenhum programa, através de um método simples, grátis e muito eficiente, que captura perfeitamente a tela do pc e o áudio do microfone.
 
@@ -120,7 +120,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Curso de Escrita e Publicação de Artigos Científicos](http://www.cnen.gov.br/images/CIN/Cursos/Curso_Escrita_Publicao_Artigo_Cientfico_Junho2017.pdf) [PT-BR] - O Centro de Informações Nucleares (CIN) da Comissão Nacional de Energia Nuclear (CNEN) promoveram o curso Escrita e Publicação de Artigos Científicos.
 
-- **9 ELEMENTOS ESSENCIAIS NO ARTIGO CIENTÍFICO: **
+- **9 ELEMENTOS ESSENCIAIS NO ARTIGO CIENTÍFICO:**
 
   - [Doutora Andreza Lopes](https://andrezalopes.com.br/9-elementos-essenciais-artigo-cientifico/) [PT-BR] - Serviços de Coaching, Orientação e Mentoria, para aprendizagem continua.
 
@@ -128,7 +128,7 @@ A transmissão da informação torna-se valorosa quando ela é útil para quem a
 
   - [Pós-Graduando](http://posgraduando.com/fish-qtcr-5ss-leitura-artigos/) [PT-BR] - O Pós-Graduando é um espaço na internet para troca de experiências, opiniões, depoimentos, dicas, tutoriais, humor e debates saudáveis sobre o meio acadêmico.
 
-- **O Guia Completo das Ferramentas de Pesquisa: **
+- **O Guia Completo das Ferramentas de Pesquisa:**
   - [Even3](https://blog.even3.com.br/guia-completo-das-ferramentas-de-pesquisa/) [PT-BR] - A Even3 é uma plataforma criada para simplificar a organização de eventos técnicos e científicos como congressos, workshops, simpósios e minicursos. 
   
    
