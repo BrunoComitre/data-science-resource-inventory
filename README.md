@@ -30,7 +30,7 @@
 
 <u>*Esta parte é para Jovens Padawans em Ciência de Dados*</u>
 
-Este é um repositório de atalhos para começar a estudar **Ciência de Dados **. 
+Este é um repositório de atalhos para começar a estudar **Ciência de Dados**. 
 
 Começamos com um O que é Ciência de Dados?. Leituras báscisas para você compreender mais sobre o que é Ciência de Dados e o que devo estudar para aprender Ciência de Dados.
 
