@@ -9,7 +9,7 @@
 ## Índice
 
 * [Motivação](#motivação)
-* [Introdutório da Área](#Introdutório da Área)
+* [Introdutório da Área](#Introdutorio da area)
 * [O que é Ciência de Dados?](O que é Ciência de Dados?)
 * [Curso Online Aberto e Gratuitos (MOOC's)](#Curso Online Aberto e Gratuitos (MOOC's))
 * [Conjuntos de Dados (Datasets)](#Conjuntos de Dados (Datasets))
