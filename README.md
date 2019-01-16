@@ -9,22 +9,22 @@
 ## Índice
 
 * [Motivação](#motivação)
-* [Introdutório da Área](#Introdutorio da area)
-* [O que é Ciência de Dados?](O que é Ciência de Dados?)
-* [Curso Online Aberto e Gratuitos (MOOC's)](#Curso Online Aberto e Gratuitos (MOOC's))
-* [Conjuntos de Dados (Datasets)](#Conjuntos de Dados (Datasets))
+* [Introducão](#Introducao)
+* [O que é Ciência de Dados?](o-que-e-ciencia-de-dados)
+* [MOOC's](#moocs)
+* [Datasets](#datasets)
 * [Blogs](#Blogs)
 * [Computação](#Computação)
 * [Matemática](#Matemática)
-* [Canais, Playlists e Vídeos do YouTube](#Canais, Playlists e Vídeos do YouTube)
-* [Ferramentas de um Cientista de Dados](#Ferramentas de um Cientista de Dados)
-* [Ferramentas de Visualização - Ambientes e Bibliotecas](#Ferramentas de Visualização - Ambientes e Bibliotecas)
+* [YouTube](#youTube)
+* [Ferramentas](#ferramentas)
+* [Visualização](#visualização)
 * [Revistas](#Revistas)
 * [Livros](#Livros)
-* [Competições de Ciência de Dados e Desafios de Programação](#Competições de Ciência de Dados e Desafios de Programação)
+* [Competições](#competicoes)
 * [Tutoriais](#Tutoriais)
-* [Outras Listas Impressionantes](#Outras Listas Impressionantes)
-* [Links de pesquisa Pirata](#Links de pesquisa Pirata)
+* [Outras Listas Impressionantes](#outras-listas-impressionantes)
+* [Links de Pesquisa Pirata](#links-de-pesquisa-pirata)
 * [Imagens](#Imagens)
 
 <br />
@@ -186,7 +186,7 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 
 <br />
 
-## Curso Online Aberto e Gratuitos (MOOC's)
+## MOOC's
 
 Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e gratuitos: 
 - [edX](https://www.edx.org) [EN-US] - Aprendizagem flexível de programação.
@@ -230,7 +230,7 @@ Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e grat
 
 <br />
 
-## Conjuntos de Dados (Datasets)
+## Datasets
 
 Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para estudo e aprendizagens: 
 - [DATAQUEST](http://www.dataquest.io/blog/free-datasets-for-projects/) [EN-US] - 18 lugares para encontrar conjuntos de dados para projetos de ciência de dados.
@@ -391,7 +391,7 @@ Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assun
 
 <br />
 
-## Canais, Playlists e Vídeos do YouTube
+## YouTube
 
 Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para estudo e se manter atualizado: 
 - Canal [Google Open Online Education](https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA) [EN-US] - Cursos on-line oferecidos pelo Google e ferramentas que permitem que você crie seus próprios cursos.
@@ -426,7 +426,7 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 
 <br />
 
-## Ferramentas de um Cientista de Dados
+## Ferramentas
 
 Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de Dados, não sei e não testei todas, porém vale a pena saberem que existem: 
 - [Jupyter](http://jupyter.org/) - O Project Jupyter existe para desenvolver software de código aberto, padrões abertos e serviços para computação interativa em dezenas de linguagens de programação.
@@ -491,7 +491,7 @@ Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de D
 
 <br />
 
-## Ferramentas de Visualização - Ambientes e Bibliotecas
+## Visualização
 
 Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientista de Dados: 
 - [Scikit-Learn](http://scikit-learn.org/stable/) - Aprendizado de Máquina em Python.
@@ -697,7 +697,7 @@ Segue abaixo uma lista livros pagos e gratuitos:
 
 <br />
 
-## Competições de Ciência de Dados e Desafios de Programação
+## Competições
 
 Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados: 
 - [Lista De Exercicio para Python](https://wiki.python.org.br/ListaDeExercicios) [PT-BR] - Esta é uma lista com sugestões de programas para iniciantes em programação.
@@ -795,7 +795,7 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 
 <br />
 
-## Links de pesquisa Pirata
+## Links de Pesquisa Pirata
 
 Como achar mais coisas sobre qualquer coisa, incluindo a temática Data Science?
 
