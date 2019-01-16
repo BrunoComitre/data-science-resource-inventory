@@ -4,33 +4,35 @@
 
 **[AVISO]** *Os links citados aqui foram extraidos a partir de vários sites e são para uso de estudo, estou compartilhando para que possam assim como eu aprender, espero não ter infrigido nenhum direito autoral; e caso seu site, repositório ou qualquer outro link esteja aqui e o dono não gostaria que estivesse, por favor entre em contato para que possa retirar* **!AGRADEÇO A COMPREENSÃO!**
 
+<br />
 
 ## Índice
 
-* [Motivo](#motivo)
-* [Inicio](#inicio)
-* [Cientista de Dados](#cientista-de-dados)
-* [Curso Online Aberto e Gratuitos (MOOC's)](#curso-online-aberto-e-gratuitos-moocs)
-* [Conjuntos de Dados (Datasets)](#conjuntos-de-dados-datasets)
-* [Blogs](#blogs)
-* [Computacional](#computacional)
-* [YouTube](#youtube)
-* [Ferramentas](#ferramentas)
-* [Ambientes e Bibliotecas](#ambientes-e-bibliotecas)
-* [Revistas](#revistas)
-* [Livros](#livros)
-* [Desafios](#desafios)
-* [Tutoriais](#tutoriais)
-* [Outras Listas Impressionantes](#outras-listas-impressionantes)
-* [Links de pesquisa Pirata](#links-de-pesquisa-pirata)
-* [Imagens](#imagens)
+* [Motivação](#motivação)
+* [Introdutório da Área](#Introdutório da Área)
+* [O que é Ciência de Dados?](O que é Ciência de Dados?)
+* [Curso Online Aberto e Gratuitos (MOOC's)](#Curso Online Aberto e Gratuitos (MOOC's))
+* [Conjuntos de Dados (Datasets)](#Conjuntos de Dados (Datasets))
+* [Blogs](#Blogs)
+* [Computação](#Computação)
+* [Matemática](#Matemática)
+* [Canais, Playlists e Vídeos do YouTube](#Canais, Playlists e Vídeos do YouTube)
+* [Ferramentas de um Cientista de Dados](#Ferramentas de um Cientista de Dados)
+* [Ferramentas de Visualização - Ambientes e Bibliotecas](#Ferramentas de Visualização - Ambientes e Bibliotecas)
+* [Revistas](#Revistas)
+* [Livros](#Livros)
+* [Competições de Ciência de Dados e Desafios de Programação](#Competições de Ciência de Dados e Desafios de Programação)
+* [Tutoriais](#Tutoriais)
+* [Outras Listas Impressionantes](#Outras Listas Impressionantes)
+* [Links de pesquisa Pirata](#Links de pesquisa Pirata)
+* [Imagens](#Imagens)
 
-
-## Motivo
+<br />
+## Motivação
 
 <u>*Esta parte é para Jovens Padawans em Ciência de Dados*</u>
 
-Este é um repositório de atalhos para começar a estudar **Ciência de Dados**. 
+Este é um repositório de atalhos para começar a estudar **Ciência de Dados **. 
 
 Começamos com um O que é Ciência de Dados?. Leituras báscisas para você compreender mais sobre o que é Ciência de Dados e o que devo estudar para aprender Ciência de Dados.
 
@@ -40,11 +42,10 @@ Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesq
 
 Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
 
+<br />
+## Introdutório da Área
 
-## Inicio
-
-**Primeiro**
-
+**Primeiro ** 
 Aprenda Python: 
 
 Não precisa conhecer o Python no modo PRO, por exemplo, mas para entrar nesse mundo é preciso certos conhecimentos básicos:
@@ -52,7 +53,6 @@ Não precisa conhecer o Python no modo PRO, por exemplo, mas para entrar nesse m
 - Não sabe Python? Super Recomendo Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/course/curso-python-3/)
 
 **Segundo**
-
 Prepare o PC:
 
 Sugiro o Anaconda Navigator para quem está iniciando os estudos nesse ramo. É Open Source para as linguagens de programação Python e R. E tem todas as ferramentas necessárias.
@@ -62,7 +62,6 @@ Sugiro o Anaconda Navigator para quem está iniciando os estudos nesse ramo. É 
 - Agora, também pode utilizar uma IDE. Eu particularmente recomendo o [Visual Studio Code](https://code.visualstudio.com/)
 
 **Terceiro**
-
 Bibliotecas:
 
 A seguir, algumas bibliotecas voltadas ao estudo em Ciência de Dados. Existem várias bibliotecas que podem ser utilizadas, facilitando a análise de dados. Algumas bibliotecas must-have para aprendizado:
@@ -84,11 +83,9 @@ A seguir, algumas bibliotecas voltadas ao estudo em Ciência de Dados. Existem v
 - [**Scikit-learn**](http://scikit-learn.org/stable/install.html) - Biblioteca em Python com tudo quanto é tipo de algoritmo.
 
 **Observação:**
-
 Para quem pretende lidar com redes neurais/deep learning, é uma outra trilha. Existem quatro grandes frameworks: TensorFlow, Keras, PyTorch e Theano. Sendo TensorFolw o mais conhecido e utilizado.
 
 **Quarto**
-
 TensorFlow:
 
 Primeiro conheça o  [Playground Tensorflow](http://playground.tensorflow.org/)
@@ -114,7 +111,6 @@ Nos tutoriais isso fica claro, mas eu reforço: aprenda a usar o TensorBoard, ge
  - [Swiss AI Lab IDSIA](http://ischlag.github.io/about/)
 
 **Quarto:**
-
 Algumas coisas mais
 
 - Sua conta no [Kaggle](http://www.kaggle.com/), é obrigatória.
@@ -122,7 +118,6 @@ Algumas coisas mais
 - Databases históricos e clássicos. Tem na [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 
 **Dicas Valiosas**
-
 Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 
 1. Conheça a trilha feita por leonardo ferreira que em 1 ano e meio se tornou cientista de dados e está na posição 30 mundial como cientista de dados Kaggle: [LINK](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/)
@@ -135,7 +130,6 @@ Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 ***
 
 **Meio que obrigatóriamente, entenda:**
-
 - Modelagem Preditiva.
 - Naive Bayes.
 - Análise de Séries Temporais e Visualização.
@@ -159,19 +153,15 @@ E pronto: esse é o Pacotão Introdutório da Área. Agora você está apto a co
 
 ***
 
-**Observações:**
-
+**Observações: **
 - O roteiro acima não é o único e nem necessariamente o melhor caminho para se aprender; ele reflete o que eu pretendo adquirir como conhecimento e tenho anotado em encontros e palestras e conversas em minha trajetória na área.
 
 **Lembrem-se!**
-
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
-
-## Cientista de Dados
-
-Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados:
-
+<br />
+## O que é Ciência de Dados?
+Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é Ciência de Dados: 
 - [Como criar seu portfólio de Cientista de Dados  e divulgar seus trabalhos](https://paulovasconcellos.com.br/como-criar-seu-portfolio-de-data-scientist-cc7e6b23b996) [PT-BR]
 - [Afinal, o que é Ciência de Dados](http://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/) [PT-BR]
 - [Tornando-se um cientista de dados - Currículo via Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) [EN-US]
@@ -184,12 +174,14 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Cientistas de Dados Sexy e Sociais](https://www.forbes.com/sites/gilpress/2012/11/24/big-data-news-of-the-week-sexy-and-social-data-scientists/#69ffb385aa1e) [EN-US]
 - [Dados de Opinião como Ciências Sociais](https://www.information-management.com/opinion/data-as-a-social-science) [EN-US]
 - [Big Data "Eurekas!" Não aconteça apenas](https://hbr.org/2012/11/eureka-doesnt-just-happen) [EN-US]
+- [Ciência de Dados do Zero à Kaggle Kernels Master](https://medium.com/ensina-ai/ci%C3%AAncia-de-dados-do-zero-%C3%A0-kaggle-kernels-master-7f735d7fceb2) [PT-BR]
+- [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737) [PT-BR]
+- [12 erros comuns em Ciência de Dados que comprometem a tomada de decisão](https://cio.com.br/12-erros-comuns-em-ciencia-de-dados-que-comprometem-a-tomada-de-decisao/) [PT-BR]
 
+<br />
 
 ## Curso Online Aberto e Gratuitos (MOOC's)
-
-Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e gratuitos:
-
+Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e gratuitos: 
 - [edX](https://www.edx.org) [EN-US] - Aprendizagem flexível de programação.
 - [Coursera](https://www.coursera.org) [EN-US] - Aprenda habilidades com as melhores universidades gratuitamente.
 - [Udacity](https://br.udacity.com/) [EN-US] - Cursos e Certificações.
@@ -213,7 +205,7 @@ Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e grat
 - [DataCamp](https://www.datacamp.com/) [EN-US] - Aprenda Ciência de Dados online.
 - [Google for Education](https://developers.google.com/edu/python/) [EN-US] - Classe Python do Google.
 - [VEDUCA](https://veduca.org/) [PT-BR] - Aqui você estuda de graça
-e pode conquistar seu certificado por um preço que cabe no seu bolso.
+  e pode conquistar seu certificado por um preço que cabe no seu bolso.
 - [Fundação Bradesco](https://www.ev.org.br/) [PT-BR] - A Escola Virtual é um portal educacional que disponibiliza cursos livres, gratuitamente, na modalidade a distância. 
 - [Khan Academy](https://www.khanacademy.org/) [EN-US] - Oferece exercícios práticos, vídeos instrutivos e um painel de aprendizagem personalizado que capacita os alunos a estudar em seu próprio ritmo dentro e fora da sala de aula.
 - [EADCCNA](http://eadccna.com.br/index.html) [PT-BR] - Variedade de cursos on-line em TI.
@@ -229,11 +221,10 @@ e pode conquistar seu certificado por um preço que cabe no seu bolso.
 - [Acclaim](https://www.youracclaim.com/skills/data-science/related_badges) [EN-US] - Conclua uma série de cursos on-line de Ciência de Dados.
 - [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
 
+<br />
 
 ## Conjuntos de Dados (Datasets)
-
-Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para estudo e aprendizagens:
-
+Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para estudo e aprendizagens: 
 - [DATAQUEST](http://www.dataquest.io/blog/free-datasets-for-projects/) [EN-US] - 18 lugares para encontrar conjuntos de dados para projetos de ciência de dados.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public) [EN-US] - Links de sites para encontrar grandes conjuntos de dados abertos ao público.
 - [ISPDados](http://www.ispdados.rj.gov.br/) [PT-BR] - Página de Dados Abertos do Instituto de Segurança Pública. Você poderá acessar as bases de dados de registros criminais e de atividade policial do estado do Rio de Janeiro. 
@@ -272,111 +263,214 @@ Segue abaixo uma lista de sites que dispõe de uma variedade de datasets para es
 - [GHTorrent](http://ghtorrent.org/) [EN-US] - Um espelho de dados escalonável, consultável e offline oferecido pela API REST do Github.
 - [Microsoft Research Open Data](https://msropendata.com/) [EN-US] - Uma coleção de conjuntos de dados gratuitos da Microsoft Research para promover pesquisas de ponta em áreas como processamento de linguagem natural, visão computacional e ciências específicas de domínio.
 - [Open Government Data Platform India](https://data.gov.in/) [EN-US] - É uma plataforma para apoiar a iniciativa Open Data do Governo da Índia. 
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) [EN-US] - Centro de Aprendizado de Máquina e Sistemas Inteligentes.
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch) [EN-US] - Conjuntos de Dados do Google.
+- [Brasil Datasets](https://brasil.io/datasets) [EN-US] - Conjunto de Dados do Brasil.
+- [Kaggle Datasets](https://www.kaggle.com/datasets) [EN-US] - Conjunto de Dados do Kaggle.
 
+<br />
 
 ## Blogs
-
-Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de Dados, Tecnologias, Computação e Nerdices em geral:
-
+Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de Dados, Tecnologias, Computação e Nerdices em geral: 
 - [Blog Mineirando Dados](http://minerandodados.com.br/) [PT-BR] - Este projeto tem o objetivo de te ajudar a aprender mais sobre Data Science e áreas afins de uma maneira prática e rápida.
+
 - [O Estatístico](https://oestatistico.com.br/) [PT-BR] - Blog com a missão é promover a estatística de um jeito simples, divertido e ao alcance de todos, como você nunca viu antes.
+
 - [Pizza De Dados](http://pizzadedados.com/) [PT-BR] - O podcast Brasileiro sobre Ciência de Dados.
+
 - [Pós-Graduando](http://posgraduando.com/blog/) [PT-BR] - Conteúdo e humor diário para alunos de Pós-Graduação.
+
 - [Paulo Vasconcellos  -  Cientista de Dados Brasileiro](https://paulovasconcellos.com.br/) [PT-BR] - Blog pessoal.
+
 - [Déborah Mesquita](https://www.deborahmesquita.com/) [PT-BR] - Blog pessoal.
+
 - [Lucas Caton](https://www.lucascaton.com.br/) [PT-BR] - Blog pessoal.
+
 - [Hackernoon](https://hackernoon.com/) [EN-US] - Hacker Noon é tudo quanto é assunto que os hackers precisam ao meio-dia.
+
 - [Towards Data Science](https://towardsdatascience.com/) [EN-US] - Rumo à Ciência de Dados, Compartilhando conceitos, idéias e códigos.
+
 - [Data Science Central](https://www.datasciencecentral.com/) [EN-US] - Recurso on-line do setor para profissionais de dados.
+
 - [Mining the Social Web](https://miningthesocialweb.com/) [EN-US] - Um complementar do livro com o objetivo simples de integrar o mainstream social de mineração da web.
+
 - [Greg Reda](http://www.gregreda.com/) [EN-US] - Personal Blog.
+
 - [Kevin Davenport](http://kldavenport.com/) [EN-US] - Personal Blog.
+
 - [Julia Evans](http://jvns.ca/) [EN-US] - Personal Blog.
+
 - [Becoming a Data Scientist](http://www.becomingadatascientist.com/) [EN-US] - Documentando o caminho de Analista de Dados SQL buscando um Mestrado em Engenharia para Cientista de Dados.
+
 - [AllThings Data Science](https://allthingsds.wordpress.com/) [EN-US] - Todas as coisas de Ciência de Dados.
+
 - [MDM – A Geeks Point Of View](http://www.mdmgeek.com/) [EN-US] - Blog de tecnologia no gerenciamento de dados mestre e cada zumbido em torno dele.
+
 - [The Open Source Data Science Masters](http://datasciencemasters.org/) [EN-US] - O currículo de código aberto para o aprendizado da Ciência de Dados.
+
 - [Data Science London](http://datasciencelondon.org/) [EN-US] - A Data Science London é uma organização sem fins lucrativos dedicada à divulgação livre e aberta da Ciência de Dados.
+
 - [John Myles White](http://www.johnmyleswhite.com/) [EN-US] - Personal Blog.
+
 - [Open Source Research](https://openresearch.wordpress.com/) [EN-US] - Estudante de doutorado no campo de Pesquisa Operacional em Berkeley. 
+
 - [Louis Dorard](http://www.louisdorard.com/blog/) [EN-US] - Um cara de tecnologia com uma queda pela web e por dados, grandes e pequenos.
+
 - [Machine Learning Mastery](http://machinelearningmastery.com/) [EN-US] - Sobre ajudar os programadores profissionais a aplicar com confiança algoritmos de aprendizado de máquina para resolver problemas complexos.
+
 - [Daniel Forsyth](http://www.danielforsyth.me/) [EN-US] - Personal Blog.
+
 - [Data Science Weekly](https://www.datascienceweekly.org/) [EN-US] - Um boletim semanal gratuito com notícias curadas, artigos e trabalhos relacionados à Ciência de Dados.
+
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) [EN-US] - Notícias diárias sobre o uso do código aberto R para análise de big data, modelagem preditiva, ciência de dados e visualização.
+
 - [R Bloggers](https://www.r-bloggers.com/) [EN-US] - R-Bloggers.com é um agregador de blogs de conteúdo contribuído por blogueiros que escrevem sobre R.
+
 - [Datascope Analytics](https://datascopeanalytics.com/blog/) [EN-US] - Consultoria e design orientados por dados.
+
 - [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) [EN-US] - Reflexões sobre Inteligência Coletiva, Disputas de Dados, Ciência de Dados, Modelagem Preditiva, Start-ups e um repositório de idéias.
+
 - [KDNuggets](http://www.kdnuggets.com/) [EN-US] - Líder em Análise de Negócios, Big Data, Mineração de Dados, Ciência de Dados e Aprendizado de Máquina.
+
 - [Meta Analysis](http://www.metabrown.com/blog/) [EN-US] - Personal Blog.
+
 - [Data Scientist](http://www.datascientists.net/) [EN-US] - Desenvolvido para que cientistas de dados colaborem no compartilhamento de conhecimento e experiências.
+
 - [What´s The Big Data](https://whatsthebigdata.com/) [EN-US] - Explora seu impacto na tecnologia da informação, no mundo dos negócios, nas agências governamentais e em nossas vidas.
+
 - [Decisions & Discovery](http://www.micfarris.com/) [EN-US] - Concentrando-se em ciência, Ciência de Dados, negócios, tecnologia,
+
 - [New Data Scientist](http://newdatascientist.blogspot.com/) [EN-US] - Como um cientista social salta para o mundo dos grandes volumes de dados.
+
 - [Data Science 101](http://101.datascience.community/) [EN-US] - Aprendendo a ser um Cientista de Dados.
+
 - [Data Scientist Journey](https://datascientistjourney.wordpress.com/category/data-science/) [EN-US] - Casal nômade digital falando sobre Ciência de Dados.
+
 - [Learning Lover](http://learninglover.com/blog/) [EN-US] - Personal Blog.
+
 - [Dataists](http://www.dataists.com/) [EN-US] - Mais do que ver o seu modelo não possui erros heteroscedásticos.
+
 - [Data-Mania](http://www.data-mania.com/blog/) [EN-US] - Personal Blog.
+
 - [Data-Magnum](https://data-magnum.com/blog/) [EN-US] - Fornece as informações, a educação e a avaliação necessárias para o planejamento e a implementação bem-sucedida de projetos de Big Data.
+
 - [The MapR Blog](https://www.mapr.com/blog) [EN-US] - Encontre insights, práticas recomendadas e recursos úteis para ajudar você a aproveitar os dados de forma mais eficaz no crescimento de seus negócios.
+
 - [P-value](http://www.p-value.info/) [EN-US] - Reflexões sobre ciência de dados, aprendizado de máquina e estatísticas.
+
 - [Deepkapha](http://tarrysingh.com/) [EN-US] - Personal Blog.
+
 - [The File Drawer](http://chris-said.io/) [EN-US] - Personal Blog.
+
 - [Hilary Parker](https://hilaryparker.com/) [EN-US] - Personal Blog.
+
 - [Kenny Bastani](http://www.kennybastani.com/) [EN-US] - Personal Blog.
+
 - [Adventures in Data Land](http://blog.smola.org) [EN-US] - Personal Blog.
+
 - [DATA MINERS BLOG](http://blog.data-miners.com/) [EN-US] - Um lugar para ler sobre tópicos de interesse para mineradores de dados, fazer perguntas aos especialistas em mineração de dados em data miners.
+
 - [FlowingData](http://flowingdata.com/) [EN-US] - Visualização e Estatísticas.
+
 - [O'reilly Learning Blog](https://www.oreilly.com/learning) [EN-US] - Perspectivas sobre ferramentas de aprendizagem, tecnologias e métodos.
+
 - [Dominodatalab](https://blog.dominodatalab.com/) [EN-US] - Inclui o post sobre Ciência de Dados.
+
 - [i am trask](http://iamtrask.github.io/) [EN-US] - Artesanato para Aprendizado de Máquina.
+
 - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) [EN-US] - Tem como objetivo compartilhar alguns dos problemas, soluções e soluções alternativas e práticas recomendadas dos autores que os ajudaram em sua jornada de dados.
+
 - [Dataconomy](http://dataconomy.com/) [EN-US] - Sobre a nova economia emergente de dados.
+
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/) [EN-US] - Um site completo sobre ciência de dados e material de estudo de análise.
+
 - [Colah's Blog](http://colah.github.io) [EN-US] - Para entender redes neurais.
+
 - [Sebastian's Blog](http://ruder.io/) [EN-US] - Para entender PNL e transferência de aprendizado.
+
 - [DATAVERSITY](http://www.dataversity.net/) [EN-US] - Educação de Dados para Negócios e Profissionais de TI.
+
 - [Ciência e Dados](http://www.cienciaedados.com/) [PT-BR] - O objetivo é conversar sobre a fascinante aventura da Ciência de Dados.
+
 - [Instituto de Inteligência Artificial Aplicada](https://www.datah.com.br/) [PT-BR] - É uma organização sem fins lucrativos onde jovens estudantes recebem educação gratuita sobre inteligência artificial, desenvolvem projetos.
+
 - [BiaData Bussiness](http://www.bigdatabusiness.com.br/) [PT-BR] - Informações sobre Big Data.
+
 - [Portal Action](http://www.portalaction.com.br/) [PT-BR] - O maior portal estatístico do Brasil.
+
 - [HackerRank](https://www.hackerrank.com/) [EN-US] -  É uma plataforma de contratação de tecnologia que é o padrão para avaliar as habilidades dos desenvolvedores para mais de 1.000 empresas em todo o mundo. 
+
 - [Revista SQL Magazine](https://www.devmedia.com.br/revista-sql-magazine) [PT-BR] - Conteúdo sobre SQL.
+
 - [DATAQUEST](https://www.dataquest.io/blog/) [EN-US] - Ciência de dados, análise de dados e tutoriais e artigos sobre engenharia de dados.
+
 - [Data Elixir](https://dataelixir.com/) [EN-US] - É uma curadoria das melhores notícias, recursos e inspirações da Ciência de Dados.
+
 - [Simply Statistics](https://simplystatistics.org/) [EN-US] - Notícias e textos sobre estatística.
+
 - [ClaoudML](http://www.claoudml.co/) [EN-US] - Recursos gratuitos de ciência de dados e aprendizado de máquina.
+
 - [PyData](https://pydata.org/) [EN-US] -  Fórum para a comunidade internacional de usuários e desenvolvedores de ferramentas de análise de dados para compartilhar idéias e aprender uns com os outros. 
+
 - [freeCodeCamp](https://medium.freecodecamp.org/) [EN-US] - Aprenda novas habiliades de desenvolvedor.
+
 - [Vooo](https://www.vooo.pro/insights/category/data-science/) [EN-US] - Notícias e textos sobre Ciência de Dados.
+
 - [Bitfactor](https://bitfactor.fi/en/blog/) [EN-US] - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
 
+- [The Fashion Robot](https://thefashionrobot.com/) [EN-US] - Sobre tecnologias inspiradoras na indústria da moda.
 
-## Computacional
+- [OpenMined](https://openmined.org/) [EN-US] - Uma comunidade de código aberto focada na pesquisa, desenvolvimento e elevação de ferramentas para inteligência artificial segura.
 
-Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assuntos relacionados a computação no geral:
+- [Shivam Bansal's](http://www.shivambansal.com/) [EN-US] -  Cientista de Dados e Kaggle Kernels Grandmaster.
 
+<br />
+
+## Computação
+Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assuntos relacionados a computação no geral: 
 - [The ACM Digital Library](https://dl.acm.org/) [EN-US] -  É uma plataforma de pesquisa, descoberta e rede que contém a coleção de texto completo de todas as publicações da ACM, incluindo revistas, anais de congressos, revistas técnicas, boletins informativos e livros.
+
 - [Communications Of The ACM](https://cacm.acm.org/) [EN-US] - São as principais publicações impressas e on-line para os campos de computação e tecnologia da informação.
+
 - [LNCC - Laboratório Nacional de Computação Científica](http://www.lncc.br/estrutura/default.php) [PT-BR] - O Laboratório Nacional de Computação Científica é uma instituição brasileira de pesquisa científica e desenvolvimento tecnológico do Ministério da Ciência, Tecnologia e Inovação e Comunicações, especializada em computação científica. 
+
 - [Intel Software Developer Zone](https://software.intel.com/pt-br) [PT-BR] - Sua fonte oficial para desenvolvimento com hardware e software Intel®.
+
 - [GUJ](http://www.guj.com.br/) [PT-BR] - É o maior fórum de desenvolvimento do Brasil com mais de 1 milhão de mensagens. Participe agora no facebook com notícias e links.
+
 - [DevMedia](https://www.devmedia.com.br/) [PT-BR] - São milhares de Cursos, DevCasts, Rodas de Códigos, Artigos, MarketPlace e muito mais.
+
 - [iMasters](https://imasters.com.br/) [PT-BR] - Comunidade de profissionais, estudantes e mestres em tecnologias e ferramentas voltadas para o desenvolvimento web.
+
 - [SEI - Instituto de Engenharia de Software](https://www.sei.cmu.edu/) [EN-US] - Realiza pesquisas em engenharia de software, engenharia de sistemas, segurança cibernética e muitas outras áreas da computação, trabalhando para introduzir inovações do setor privado no governo.
+
 - [ACM - Associação para Computação de Máquinas](https://www.acm.org/) [EN-US] - Reúne educadores, pesquisadores e profissionais de computação para inspirar o diálogo, compartilhar recursos e abordar os desafios do campo.
+
 - [Biblioteca Mundial da Ciência](https://www.nature.com/wls) [EN-US] - Biblioteca on-line oferece conteúdo educacional de qualidade em pequenos eBooks e artigos, servindo como uma missão para equalizar o acesso a recursos de alta qualidade para educação científica para todas as comunidades em todo o mundo. 
+
 - [SBMAC - Sociedade de Matemática Aplicada e Computacional](http://www.sbmac.org.br/) [PT-BR] - Desenvolver as aplicações da Matemática nas áreas científicas, tecnológicas e industriais.
+
 - [SBC - Sociedade Brasileira de Computação](http://www.sbc.org.br/) [PT-BR] - Sociedade científica que reúne estudantes, professores e profissionais da Computação e Informática de todo o Brasil. O principal objetivo desta instituição é incentivar a pesquisa e o ensino em Computação.
+
 - [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal) [PT-BR] - É uma wiki para organização de grupos de estudo ou pesquisa em todos os níveis e suas informações, como anotações, bibliografias, discussões e informações práticas.
+
 - [DevBrasil](http://devbrasil.net/) [PT-BR] - A maior rede social para desenvolvedores de software no Brasil aprendendo, compartilhando e conquistando novas oportunidades.
 
+- [Computing Research Repository](https://arxiv.org/corr/home) [EN-US] - Repositório de Pesquisa em Computação. Permite que os pesquisadores pesquisem, naveguem e baixem documentos através de seu repositório online.
 
-## Youtube
+<br />
 
-Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para estudo e se manter atualizado:
+## Matemática
+- [Mathematics](https://arxiv.org/archive/math) [EN-US] - E-prints da Cornell University relacionado a Matemática.
+- [Quantitative Finance](https://arxiv.org/archive/q-fin) [EN-US] - E-prints da Cornell University relacionado a Finanças Quantitativas.
+- [Statistics](https://arxiv.org/archive/stat) [EN-US] - E-prints da Cornell University relacionado a Estatística.
+- [Econometria](https://www.dicionariofinanceiro.com/econometria/) [PT-BR] - A econometria é um estudo que utiliza métodos matemáticos e estatísticos para que se possam avaliar teorias sobre economia e finanças.
+- [Math and Science Done Right](https://brilliant.org/) [EN-US] - Estudos de Matemática, Ciência e Engenharia por meio de experiências de aprendizado interativas de tamanho reduzido. 
 
+<br />
+
+## Canais, Playlists e Vídeos do YouTube
+Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para estudo e se manter atualizado: 
 - Canal [Google Open Online Education](https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA) [EN-US] - Cursos on-line oferecidos pelo Google e ferramentas que permitem que você crie seus próprios cursos.
 - Canal [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) [PT-BR] - Programação para iniciantes com Python.
 - Canal [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) [PT-BR] - Videoaulas de Programação.
@@ -387,7 +481,9 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Canal [Deep Learning Brasil](https://www.youtube.com/channel/UCWg0CObS-JnEtjW69eGh89A) [PT-BR] - Tem por objetivo fomentar a disseminação do tema no Brasil.
 - Canal [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured) [EN-US] - Aprenda a desenvolver e construir Inteligência Artificial, Jogos, música, chatbots, arte, utilizando Python.
 - Canal [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) [EN-US] - Aprender a Ciência de Dados para obter seu primeiro trabalho como Cientista de Dados.
+- Canal [Prof. Fernando Amaral](https://www.youtube.com/channel/UC6w56wRjrbbZk-cX46SuxPA) [PT-BR] - Canal com conteúdo de Aprendizado de Máquina, Big Data, NoSQL e Assuntos Relacionados.
 - Playlist [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) [PT-BR] - Curso de Python 3 Mundo 1 Fundamentos.
+- Playlist [Canal USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm) [PT-BR] - Aulas USP | Inteligência Artificial em saúde: o uso de Machine Learning.
 - Playlist [prof. Ronaldo Ramos, do IFET-CE](https://www.youtube.com/playlist?list=PL51430F6C54953B73) [PT-BR] - Lógica de Programação Usando Python Curso Completo.
 - Playlist [Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) [PT-BR] - Curso de Python Programação.
 - Playlist [Ignorancia_Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) [PT-BR] - Aulas Python.
@@ -396,6 +492,8 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Playlist [Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) [EN-US] - Classe de Redes Neurais Universidade de Sherbrooke.
 - Playlist [Tomer Ben David](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY) [EN-US] - Cartilha de Ciência de Dados.
 - Playlist [mrshmt](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A) [EN-US] - Aprendendo com os Dados.
+- Playlist [Código Logo - Programação e Inteligência Artificial](https://www.youtube.com/watch?v=hQGeRCBTKGs) [EN-US] - Python Natural Language Processing - Intro to spaCy.
+- Playlist [sentdex](https://www.youtube.com/watch?v=7uhMemi2mFc&index=4&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I) [EN-US] - Introdução e Fundamentos - Tutorial do Python Reddit API Wrapper (PRAW).
 - Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) [EN-US] - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
 - Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) [EN-US] -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
 - Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) [EN-US] - Uma abordagem de aprendizado de máquina inspirada no cérebro.
@@ -403,11 +501,9 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Video [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk) [EN-US] - Definição, fornecer alguns exemplos de aprendizado de máquina e explicar em alto nível como o aprendizado de máquina funciona.
 - Video [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o) [EN-US] - Esta palestra é direcionada para qualquer pessoa que seja apaixonada por entender algoritmos e códigos para definir e alavancar padrões em dados.
 
-
-## Ferramentas
-
-Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de Dados, não sei e não testei todas, porém vale a pena saberem que existem:
-
+<br />
+## Ferramentas de um Cientista de Dados
+Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de Dados, não sei e não testei todas, porém vale a pena saberem que existem: 
 - [Jupyter](http://jupyter.org/) - O Project Jupyter existe para desenvolver software de código aberto, padrões abertos e serviços para computação interativa em dezenas de linguagens de programação.
 - [neptune.ml](https://neptune.ml) - Plataforma compatível com a comunidade que apóia cientistas de dados na criação e compartilhamento de modelos de aprendizado de máquina. Netuno facilita o trabalho em equipe, gerenciamento de infraestrutura, comparação de modelos e reprodutibilidade.
 - [Steppy 1](https://github.com/neptune-ml/steppy) - Leve, biblioteca Python para experimentação de aprendizado de máquina rápida e reproduzível. Apresenta uma interface muito simples que permite um projeto de pipeline de aprendizado de máquina limpo.
@@ -446,6 +542,7 @@ Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de D
 - [Git](https://git-scm.com/) - É um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, de projetos pequenos a muito grandes, com velocidade e eficiência.
 - [Bitbucket](https://bitbucket.org/) - É mais do que apenas gerenciamento de código do Git. O Bitbucket dá às equipes um lugar para planejar projetos, colaborar em código, testar e implantar.
 - [GitHub](https://github.com/) - Plataforma de desenvolvimento inspirada na maneira como você trabalha. De código - fonte aberto a negócios , você pode hospedar e analisar códigos, gerenciar projetos e construir software.
+- [GitBook ](https://legacy.gitbook.com/) - Documentação facilitada. Ajuda sua equipe a escrever, colaborar e publicar conteúdo online.
 - [Pivotal Tracker](https://www.pivotaltracker.com/) - É a ferramenta de gerenciamento de projetos ágil de escolha para desenvolvedores em todo o mundo para colaboração em tempo real em torno de um backlog priorizado e compartilhado.
 - [Stack Overflow](https://stackoverflow.com/) - É a maior e mais confiável comunidade online para desenvolvedores aprenderem, compartilharem seus conhecimentos e construírem suas carreiras.
 - [NotABug](https://notabug.org/) - Plataforma de colaboração de código de software livre para projetos licenciados livremente.
@@ -467,60 +564,106 @@ Segue abaixo uma lista de ferramentas que facilitam o trabalho do Cientista de D
 - [draw.io](https://www.draw.io/) - É um site de diagramação on-line  com o exemplo GraphEditor do mxGraph como a base da parte da aplicação.
 - [RED HAT - OpenShift](https://www.openshift.com/) - Implantação e gerenciamento de softwares baseados em container. Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
 
-
-## Ambientes e Bibliotecas
-
+<br />
+## Ferramentas de Visualização - Ambientes e Bibliotecas
 Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientista de Dados: 
-
 - [Scikit-Learn](http://scikit-learn.org/stable/) - Aprendizado de Máquina em Python.
+
 - [NumPy](http://www.numpy.org/) - É fundamental para computação científica com o Python. Suporta matrizes e matrizes grandes e multidimensionais e inclui uma variedade de funções matemáticas de alto nível para operar nesses arrays.
+
 - [SciPy](https://www.scipy.org/) O SciPy trabalha com arrays NumPy e fornece rotinas eficientes para integração e otimização numérica.
+
 - [Tensor Flow](https://www.tensorflow.org/) - TensorFlow é uma biblioteca de software de código aberto para inteligência de máquina.
+
 - [nbviewer](https://nbviewer.jupyter.org/) - Renderizar os Jupyter Notebooks como páginas da Web estáticas.
+
 - [Matplotlib](https://matplotlib.org/) - Biblioteca de plotagem 2D em Python que produz números de qualidade de publicação em uma variedade de formatos impressos e ambientes interativos entre plataformas. 
+
 - [seaborn](https://seaborn.pydata.org/) -  Biblioteca de visualização de dados Python baseada no matplotlib . Ele fornece uma interface de alto nível para desenhar gráficos estatísticos atraentes e informativos.
+
 - [Auto PY para EXE](https://pypi.org/project/auto-py-to-exe/) - Converte .py para .exe usando uma interface gráfica simples.
+
 - [plot.ly](https://plot.ly/) - Biblioteca de visualização de dados para Python.
+
 - [Caffe](http://caffe.berkeleyvision.org/) - Estrutura de aprendizagem profunda feita com expressão, velocidade e modularidade em mente. 
+
 - [Albumentations](https://github.com/albu/albumentations) - Uma biblioteca de aumento de imagem rápida e agnóstica de framework que implementa um conjunto diversificado de técnicas de aumento.
+
 - [Ember Charts](http://opensource.addepar.com/ember-charts/#/overview) - Uma poderosa e fácil de usar biblioteca de gráficos para Ember.js.
+
 - [amCharts](https://www.amcharts.com/) - Bibliotecas e ferramentas para todas as suas necessidades de Visualização de Dados.
+
 - [AnyChart](http://www.anychart.com/) - É um conjunto de bibliotecas JavaScript HTML5 flexíveis para todas as suas necessidades de visualização de dados. 
+
 - [cartodb](http://cartodb.github.io/odyssey.js/) - Ferramenta de mapeamento.
+
 - [Cube](http://square.github.io/cube/) - Sistema para coletar eventos com registro de data e hora e derivar métricas.
+
 - [d3plus](http://d3plus.org/) - Visualização de dados facilitada.
+
 - [D3js - Data-Driven Documents](https://d3js.org/) - Biblioteca JavaScript para manipular documentos com base em dados. 
+
 - [dygraphs](http://dygraphs.com/) - Biblioteca de criação de gráficos JavaScript de código aberto flexível e rápida.
+
 - [exhibit](http://www.simile-widgets.org/exhibit/) - Permite criar facilmente páginas da Web com funcionalidades avançadas de pesquisa e filtragem de texto, com mapas interativos, linhas do tempo e outras visualizações.
+
 - [Gatherplot](http://www.gatherplot.org/) - Gráficos de dispersão generalizados para dados nominais.
+
 - [ggplot2](http://ggplot2.org/) - Sistema para criar gráficos de forma declarativa, baseado em The Grammar of Graphics .
+
 - [Glue](http://www.glueviz.org/en/latest/) - Biblioteca Python para explorar relacionamentos dentro e entre conjuntos de dados relacionados.
+
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery) - Fornece uma variedade de gráficos projetados para atender às suas necessidades de visualização de dados.
+
 - [jqplot](http://www.jqplot.com/) - Plugin de plotagem e gráficos para o framework JavaScript jQuery. 
+
 - [nvd3](http://nvd3.org/) - Construir gráficos reutilizáveis e componentes de gráficos.
+
 - [Opendata-tools](http://opendata-tools.org/en/visualization/) - Lista de ferramentas para explorar, publicar e compartilhar conjuntos de dados públicos.
+
 - [Openrefine](http://openrefine.org/) - Uma ferramenta poderosa e gratuita para trabalhar com dados confusos.
+
 - [raw](http://rawgraphs.io) - O elo perdido entre planilhas e visualização de dados.
+
 - [techanjs](http://techanjs.org/) - Uma análise visual e técnica e uma biblioteca de gráficos baseada na D3 . Crie gráficos financeiros interativos para navegadores modernos e móveis.
+
 - [Timeline](http://timeline.knightlab.com/) - Ferramenta de código aberto que permite a qualquer um construir timelines interativas e visualmente ricas.
+
 - [variancecharts](http://variancecharts.com/index.html) -  Permite que engenheiros, designers, jornalistas, cientistas e analistas criem gráficos de dados elegantes e personalizados para a Web, usando apenas HTML e CSS. 
+
 - [vida](https://vida.io/) - Visualização de dados de código aberto.
+
 - [Wrangler](http://vis.stanford.edu/wrangler/) - Ferramenta interativa para limpeza e transformação de dados. 
+
 - [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - É um experimento em expressar o pensamento estatístico com design interativo.
+
 - [NetworkX](https://networkx.github.io/) - Pacote Python para a criação, manipulação e estudo da estrutura, dinâmica e funções de redes complexas.
+
 - [Redash](https://redash.io/) - Construído para permitir acesso rápido e fácil a bilhões de registros.
+
 - [C3](https://c3js.org/) - Biblioteca de gráficos reutilizável baseada em D3.
+
 - [Heroku](www.heroku.com/) - É uma plataforma como serviço (PaaS) que permite aos desenvolvedores criar, executar e operar aplicativos inteiramente na nuvem.
+
 - [OpenStack](https://www.openstack.org/) - É um software de código aberto, capaz de gerenciar os componentes de múltiplas infraestruturas virtualizadas.
+
 - [DigitalOcean](https://www.digitalocean.com/) - Fornece aos desenvolvedores e empresas uma plataforma de computação em nuvem confiável e fácil de usar para servidores virtuais (Droplets), armazenamento de objetos (Spaces) e muito mais.
+
 - [Google Cloud Platform](https://cloud.google.com/) - É uma suíte de computação em nuvem oferecida pelo Google, funcionando na mesma infraestrutura que a empresa usa para seus produtos dirigidos aos usuários, dentre eles o Buscador Google e o Youtube.
+
 - [Amazon Web Services Cloud](https://aws.amazon.com/pt/) - É uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.
 
+- [nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - Este repositório contém uma coleção de extensões que adicionam funcionalidade ao notebook Jupyter.
 
+- [tqdm](https://pypi.org/project/tqdm/) - Faça instantaneamente seus loops mostrarem um medidor de progresso inteligente.
+
+- [hchart](http://jkunst.com/highcharter/hchart.html) - Esta função genérica pode fazer o gráfico de vários objetos R em tempo real.
+
+- [pyswarms](https://github.com/ljvmiranda921/pyswarms) - Um kit de ferramentas de pesquisa para otimização de enxame de partículas em Python.
+
+<br />
 ## Revistas
-
-Segue abaixo uma lista de sites preferidos para se manter informado, tanto em tecnologias quanto em Ciência de Dados, e porque não uns ativismos:
-
+Segue abaixo uma lista de sites preferidos para se manter informado, tanto em tecnologias quanto em Ciência de Dados, e porque não uns ativismos: 
 - [TECNOLOGIA | EXAME](https://exame.abril.com.br/tecnologia/) [PT-BR] - Informações sobre tecnologia, internet, ciências, redes sociais, gadgets e empresas que moldam esse mercado.
 - [Pplware](https://pplware.sapo.pt/) [PT-BR] - Tudo sobre tecnologia, software, peopleware, informatica, tutoriais, truques, dicas, windows, mac, linux e internet em portugues.
 - [Revista Galileu](https://revistagalileu.globo.com/) [PT-BR] - Ciência, tecnologia, cultura, comportamento e lifehacks.
@@ -551,11 +694,9 @@ Segue abaixo uma lista de sites preferidos para se manter informado, tanto em te
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
 - [Medium Data Science Topic](https://medium.com/topic/data-science) [EN-US] - Publicações relacionadas à Ciência de Dados no Medium.
 
-
+<br />
 ## Bons Textos Separados
-
-Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para Ciência de Dados:
-
+Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para Ciência de Dados: 
 - [Qual a importância da Análise Exploratória de Dados?](https://oestatistico.com.br/analise-exploratoria-de-dados/) [PT-BR]
 - [Aprendendo sobre web scraping em Python utilizando BeautifulSoup](https://imasters.com.br/back-end/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup) [PT-BR]
 - [Imagens Docker prontas para executar contendo aplicativos Jupyter](https://github.com/jupyter/docker-stacks) [EN-US]
@@ -617,12 +758,33 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Cornell University Library](https://arxiv.org/) [EN-US]
 - [Kernel Eensity Estimation (KDE) ](https://en.wikipedia.org/wiki/Kernel_density_estimation) [EN-US]
 - [Catálogo de Visualização de Dados - Todos os Gráficos](https://datavizcatalogue.com/ES/index.html) [ES-ES]
+- [Economics](https://arxiv.org/archive/econ) [EN-US]
+- [ Aprenda Computação com Python’s documentation!](https://aprendendo-computacao-com-python.readthedocs.io/en/latest/index.html) [PT-BR]
+- [Kaggle Github Plugin](https://www.kaggle.com/general/33266) [EN-US]
+- [10 bibliotecas de Data Science para Python que ninguém te conta](https://paulovasconcellos.com.br/10-bibliotecas-de-data-science-para-python-que-ningu%C3%A9m-te-conta-706ec3c4fcef?fbclid=IwAR2Zwl4FeFLYMoRsx6IX-hUMMEmy14U_8bbS4n4dii7x6bhb43NqRopna2w) [PT-BR]
+- [Understanding the kernel trick](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78) [EN-US]
+- [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726) [EN-US]
+- [datascience-br](https://github.com/datascience-br) [EN-US]
+- [Particle Swarm Optimization from Scratch with Python](https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/) [EN-US]
+- [PSO Resources](https://bee22.com/resources/) [EN-US]
+- [Deep Learning Book](http://deeplearningbook.com.br/) [PT-BR]
+- [O Guia (semi) definitivo para Data Lakes](https://medium.com/data-hackers/o-guia-semi-definitivo-para-data-lakes-461b1878697f) [PT-BR]
+- [Top Examples of Why Data Science is Not Just .fit().predict()](https://towardsdatascience.com/top-examples-of-why-data-science-is-not-just-fit-predict-ce7a13ef7663) [EN-US]
+- [Regressão Linear e seu papel na Data Science](https://www.linkedin.com/pulse/regress%C3%A3o-linear-e-seu-papel-na-data-science-fillipe-marinho-mota/) [PT-BR]
+- [Radial Basis Functions: sin x](https://www.kaggle.com/kabrol98/radial-basis-functions-sin-x) [EN-US]
+- [How to run Linear regression in Python scikit-Learn](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/) [EN-US]
+- [19 Data Science and Machine Learning Tools for people who Don’t Know Programming](https://www.analyticsvidhya.com/blog/2018/05/19-data-science-tools-for-people-dont-understand-coding/) [EN-US]
+- [How-to: Create a Simple Hadoop Cluster with VirtualBox](https://blog.cloudera.com/blog/2014/01/how-to-create-a-simple-hadoop-cluster-with-virtualbox/) [EN-US]
+- [Como entender Machine Learning através da comida](https://medium.com/ensina-ai/como-entender-machine-learning-atrav%C3%A9s-da-comida-122bf6f84b35) [PT-BR]
+- [Hadoop for Beginners- Part 1](https://www.datasciencecentral.com/profiles/blogs/hadoop-for-beginners) [EN-US]
+- [Comprimindo e Extraindo Arquivos em Python](https://code.tutsplus.com/pt/tutorials/compressing-and-extracting-files-in-python--cms-26816) [PT-BR]
+- [Teste Kolmogorov-Smirnov](https://pt.wikipedia.org/wiki/Teste_Kolmogorov-Smirnov) [EN-US]
+- [Perform the Kolmogorov-Smirnov test for goodness of fit.](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html) [EN-US]
 
+<br />
 
 ## Livros
-
-Segue abaixo uma lista livros pagos e gratuitos:
-
+Segue abaixo uma lista livros pagos e gratuitos: 
 - [Pense em Python](https://novatec.com.br/livros/pense-em-python/) - [versão online](https://penseallen.github.io/PensePython2e/) [PT-BR]
 - [Introdução à Programação com Python – 2ª Edição](https://novatec.com.br/livros/introducao-python-2ed/) [PT-BR]
 - [Python para Desenvolvedores](https://novatec.com.br/livros/python-para-desenvolvedores/) [PT-BR]
@@ -647,11 +809,9 @@ Segue abaixo uma lista livros pagos e gratuitos:
 - [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) [EN-US]
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
 
-
-## Desafios
-
-Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados:
-
+<br />
+## Competições de Ciência de Dados e Desafios de Programação
+Segue abaixo uma lista de sites para por em prática o conhecimento de Análise de Dados: 
 - [Lista De Exercicio para Python](https://wiki.python.org.br/ListaDeExercicios) [PT-BR] - Esta é uma lista com sugestões de programas para iniciantes em programação.
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) [EN-US] - O principal objetivo é promover a prática de programação e o compartilhamento de conhecimento.
 - [Kaggle](https://www.kaggle.com/) [EN-US] - Kaggle é o lugar para fazer projetos de Ciência de Dados.
@@ -661,30 +821,31 @@ Segue abaixo uma lista de sites para por em prática o conhecimento de Análise 
 - [InnoCentive](https://www.innocentive.com/) [EN-US] - Pioneira global em inovação em crowdsourcing. 
 - [TuneedIT](http://tunedit.org/challenges) [EN-US] - Desafios de Algoritmos de Aprendizado de Máquina e Mineração de Dados.
 
-
+<br />
 ## Tutoriais
-
-Segue abaixo uma lista de tutoriais que fiz e mantenho salvo para que possam ajudar mais pessoas:
-
+Segue abaixo uma lista de tutoriais que fiz e mantenho salvo para que possam ajudar mais pessoas: 
 - [Redes Neurais Artificiais](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/) [PT-BR] - Você verá nesta página um tutorial introdutório sobre Redes Neurais Artificiais, em especial sobre as Redes Multi Layer Perceptron treinadas com BackPropagation.
-- [Ciência de Dados usando Python e R](https://github.com/jadianes/data-science-your-way) [EN-US] - Formas de fazer Engenharia de Dados e Aprendizagem de Máquina em R e Python.
+- [Ciência de Dados usando Python e R](https://github.com/jadianes/data-science-your-way) [EN-US] - Formas de fazer Engenharia de Dados e Aprendizagem de Máquina em R e Python
 
-
+<br />
 **MARKDOWN:**
 - [O que é Markdown?](http://cursos.leg.ufpr.br/prr/capMarkdown.html) [PT-BR]
 - [CommonMark - Uma especificação fortemente definida e altamente compatível do Markdown](https://commonmark.org/help/) [EN-US]
 - [Markdown Tutorial](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md#tools) [EN-US]
 
-
+<br />
 **DOCKER (SOFTWARE):**
 - [Docker](https://www.docker.com/) [EN-US] - Site Oficial.
 - [Hub Docker](https://hub.docker.com/) [EN-US] - Onde ficam os containers criados e compartilhados pela galera.
 - [Mundo Docker](https://www.mundodocker.com.br/) [PT-BR]
 - [No final das contas: o que é o Docker e como ele funciona?](https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona/) [PT-BR]
+- [Tutorial Docker Iniciando E Como Rodar Containers](https://carlos-algms.github.io/blog/tutorial-docker-iniciando-e-como-rodar-containers/) [PT-BR]
+- [O que é o Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#) [PT-BR]
 
-
+<br />
 **BINDER (BETA):**
 Links referente a instalação no Binder usando Docker e Amazon AWS:
+
 - [Binder Exemplos ](https://github.com/binder-examples) [EN-US]
 - [Serviço Amazon Elastic Container](https://aws.amazon.com/pt/ecs/) [EN-US]
 - [Noções básicas do Docker para Amazon ECS](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/developerguide/docker-basics.html) [PT-BR]
@@ -695,7 +856,7 @@ Links referente a instalação no Binder usando Docker e Amazon AWS:
 - Vídeo [Rodando Containers Dockers na AWS](https://www.youtube.com/watch?v=m_ElzW6F44I) [PT-BR]
 - Vídeo [Jupyter, Jupyter Lab e Binder - Visão geral e tecnologias associadas](https://www.youtube.com/watch?v=zVaMHGlSyh4) [PT-BR]
 
-
+<br />
 **TUTORIAL PARA INSTALAR E CONFIGURAR O JUPYTERLAB NO AWS:**
 Forma facil e correta de fazer a instalação e a configuração:
 - [Como configurar o JupyterLab no AWS](https://bitfactor.fi/en/blog/2018/08/30/how-to-set-up-jupyterlab-in-aws/) [EN-US]
@@ -704,11 +865,9 @@ Forma facil e correta de fazer a instalação e a configuração:
 - [JUPYTER - jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) [EN-US] - Imagens Docker prontas para executar contendo aplicativos Jupyter.
 - [DOCKERHUB - jupyter/datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/) [EN-US] - Pilha de Ciência de Dados do Notebook Jupyter.
 
-
+<br />
 ## Outras Listas Impressionantes
-
-Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 a capacidade desta lista para se conhecer Ciência de Dados:
-
+Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 a capacidade desta lista para se conhecer Ciência de Dados: 
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) [EN-US] - Links legais e artigos de pesquisa relacionados ao Aprendizado de Máquina aplicados ao código-fonte (MLonCode).
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#motivation) [EN-US] - Um repositório de ciência de dados de código aberto para aprender e aplicar na solução de problemas do mundo real.
 - [Awesome](https://github.com/sindresorhus/awesome) [EN-US] - Lista com curadoria de listas impressionantes.
@@ -730,7 +889,11 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 - [Data Science Tutorials and Courses](https://hackr.io/tutorials/learn-data-science) [EN-US] - Aprenda Ciência de Dados on-line a partir dos melhores cursos e tutoriais de Ciência de Dados submetidos e votados pela comunidade de programação. Cursos de Matemática e Estatística necessários para Ciência de Dados também estão incluídos aqui.
 - [The Free Big Data Sources Everyone Should Know](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know) [EN-US] - As fontes gratuitas de Big Data que todos devem conhecer.
 - [20 Big Data Repositories You Should Check Out](https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1) [EN-US] - 20 grandes repositórios de dados que você deve verificar.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)  [EN-US] - Conjuntos de dados públicos.
+- [Awesome Public Datasets](https://github.com/shubhamjn1/awesome-public-datasetst)  [EN-US] - Uma lista de conjuntos de dados abertos de alta qualidade em domínios públicos.
+- [Cursos de Python](https://github.com/weltonvaz/cursos) [PT-BR] - Cursos e apostilas gratuitos online de Python.
 
+<br />
 
 ## Links de pesquisa Pirata
 
@@ -749,12 +912,33 @@ A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana 
 
 [startpage](https://www.startpage.com/por/?#hmb) - Mecanismo de pesquisa mais privado do Mundo.
 
-
+<br />
 ## Imagens
-
 Sim! Valem mais que mil Palavras..
 
-Na pasta Img você encontra algumas imagens interessantes que encontrei e salvei ao longo desta pesquisa.
+**A Moderna Profissão Cientista de Dados**![A Moderna Profissão Cientista de Dados](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\A Moderna Profissão Cientista de Dados.jpg)
+
+**A.I. Timeline**![A.I. Timeline](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\A.I. Timeline.jpg)
+
+**Data Scientist Life**![Data Scientist Life](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Data Scientist Life.jpg)
+
+**Dunnin-Krueger Effect**![Dunnin-Krueger Effect](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Dunnin-Krueger Effect.jpg)
+
+**Graduação**![Graduação](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Graduação.jpg)
+
+**Information Data Science**![Information Data Science](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Information Data Science.jpg)
+
+**Moder Data Scientist**![Moder Data Scientist](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Moder Data Scientist.jpg)
+
+**Road To Data Scientist**![Road To Data Scientist](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Road To Data Scientist.png)
+
+**Scikit-Learn Folha de Dicas**![Scikit-Learn Folha de Dicas](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Scikit-Learn Folha de Dicas.jpg)
+
+**StackOverflow**![StackOverflow](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\StackOverflow.jpg)
+
+**Unix Permissions**![Unix Permissions](C:\Users\bruno\Desktop\MARKDOWN Data Science\imagens\Unix Permissions.jpg)
 
 **Lembrem-se!**
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
+
+<br />
