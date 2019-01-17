@@ -183,6 +183,7 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Ciência de Dados do Zero à Kaggle Kernels Master](https://medium.com/ensina-ai/ci%C3%AAncia-de-dados-do-zero-%C3%A0-kaggle-kernels-master-7f735d7fceb2) [PT-BR]
 - [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737) [PT-BR]
 - [12 erros comuns em Ciência de Dados que comprometem a tomada de decisão](https://cio.com.br/12-erros-comuns-em-ciencia-de-dados-que-comprometem-a-tomada-de-decisao/) [PT-BR]
+- [10 tipos de profissionais de dados : de engenheiros de dados a big data DevOps e analistas de dados , em qual dessas classificações você se encaixaria ?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
 
 <br />
 
@@ -664,7 +665,8 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Hadoop for Beginners- Part 1](https://www.datasciencecentral.com/profiles/blogs/hadoop-for-beginners) [EN-US]
 - [Comprimindo e Extraindo Arquivos em Python](https://code.tutsplus.com/pt/tutorials/compressing-and-extracting-files-in-python--cms-26816) [PT-BR]
 - [Teste Kolmogorov-Smirnov](https://pt.wikipedia.org/wiki/Teste_Kolmogorov-Smirnov) [EN-US]
-- [Perform the Kolmogorov-Smirnov test for goodness of fit.](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html) [EN-US]
+- [Perform the Kolmogorov-Smirnov test for goodness of fit](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html) [EN-US]
+- [Demystifying Data Science For All](http://businessoverbroadway.com/2017/10/29/demystifying-data-science-for-all/) [EN-US]
 
 <br />
 
