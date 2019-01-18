@@ -358,6 +358,8 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [The Fashion Robot](https://thefashionrobot.com/) [EN-US] - Sobre tecnologias inspiradoras na indústria da moda.
 - [OpenMined](https://openmined.org/) [EN-US] - Uma comunidade de código aberto focada na pesquisa, desenvolvimento e elevação de ferramentas para inteligência artificial segura.
 - [Shivam Bansal's](http://www.shivambansal.com/) [EN-US] -  Cientista de Dados e Kaggle Kernels Grandmaster.
+- [7WDATA](https://www.7wdata.be/) [EN-US] -  É o Hotspot sobre novas notícias de todas as coisas.
+- [mathbabe](https://mathbabe.org//) [EN-US] -  Explorar e desabafar sobre questões quantitativas.
 
 <br />
 
