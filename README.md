@@ -184,6 +184,7 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737) [PT-BR]
 - [12 erros comuns em Ciência de Dados que comprometem a tomada de decisão](https://cio.com.br/12-erros-comuns-em-ciencia-de-dados-que-comprometem-a-tomada-de-decisao/) [PT-BR]
 - [10 tipos de profissionais de dados : de engenheiros de dados a big data DevOps e analistas de dados , em qual dessas classificações você se encaixaria ?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
+- [O que é Machine Learning e como aprender sem gastar nada](https://paulovasconcellos.com.br/o-que-e-machine-learning-e-como-aprender-sem-gastar-nada-2e612f13102b) [PT-BR]
 
 <br />
 
@@ -796,6 +797,7 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)  [EN-US] - Conjuntos de dados públicos.
 - [Awesome Public Datasets](https://github.com/shubhamjn1/awesome-public-datasetst)  [EN-US] - Uma lista de conjuntos de dados abertos de alta qualidade em domínios públicos.
 - [Cursos de Python](https://github.com/weltonvaz/cursos) [PT-BR] - Cursos e apostilas gratuitos online de Python.
+- [Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) [PT-BR] - Este repositório foi feito pela e para a comunidade. 
 
 <br />
 
