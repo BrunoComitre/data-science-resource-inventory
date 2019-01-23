@@ -670,6 +670,9 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Teste Kolmogorov-Smirnov](https://pt.wikipedia.org/wiki/Teste_Kolmogorov-Smirnov) [EN-US]
 - [Perform the Kolmogorov-Smirnov test for goodness of fit](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html) [EN-US]
 - [Demystifying Data Science For All](http://businessoverbroadway.com/2017/10/29/demystifying-data-science-for-all/) [EN-US]
+- [Web Face Recognition](https://github.com/pedrohenriquebr/web-face-recognition) [PT-BR]
+- [Plano de estudos em machine learning com conteúdos em português.](https://github.com/italojs/awesome-machine-learning-portugues) [PT-BR]
+- [23 startups de data science e enriquecimento de dados](https://insights.liga.ventures/itstartups-ti/23-startups-data-science-enriquecimento-dados/) [PT-BR]
 
 <br />
 
