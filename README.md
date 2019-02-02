@@ -674,6 +674,7 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Plano de estudos em machine learning com conteúdos em português.](https://github.com/italojs/awesome-machine-learning-portugues) [PT-BR]
 - [23 startups de data science e enriquecimento de dados](https://insights.liga.ventures/itstartups-ti/23-startups-data-science-enriquecimento-dados/) [PT-BR]
 - [Play with neural networks!](http://playground.tensorflow.org) [EN-US]
+- [Create smart AWS diagrams](https://cloudcraft.co/) [EN-US]
 
 <br />
 
