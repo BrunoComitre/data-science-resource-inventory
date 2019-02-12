@@ -361,6 +361,7 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [Shivam Bansal's](http://www.shivambansal.com/) [EN-US] -  Cientista de Dados e Kaggle Kernels Grandmaster.
 - [7WDATA](https://www.7wdata.be/) [EN-US] -  É o Hotspot sobre novas notícias de todas as coisas.
 - [mathbabe](https://mathbabe.org//) [EN-US] -  Explorar e desabafar sobre questões quantitativas.
+- [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) [PT-BR] - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
 
 <br />
 
@@ -545,6 +546,7 @@ Segue abaixo uma lista de Ferramentas, Ambientes e Bibliotecas para nós Cientis
 - [tqdm](https://pypi.org/project/tqdm/) - Faça instantaneamente seus loops mostrarem um medidor de progresso inteligente.
 - [hchart](http://jkunst.com/highcharter/hchart.html) - Esta função genérica pode fazer o gráfico de vários objetos R em tempo real.
 - [pyswarms](https://github.com/ljvmiranda921/pyswarms) - Um kit de ferramentas de pesquisa para otimização de enxame de partículas em Python.
+- [MoviePy](https://zulko.github.io/moviepy/) - Módulo Python para edição de vídeo, composição de vídeo, processamento de vídeo ou para criar efeitos avançados.
 
 <br />
 
@@ -675,6 +677,20 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [23 startups de data science e enriquecimento de dados](https://insights.liga.ventures/itstartups-ti/23-startups-data-science-enriquecimento-dados/) [PT-BR]
 - [Play with neural networks!](http://playground.tensorflow.org) [EN-US]
 - [Create smart AWS diagrams](https://cloudcraft.co/) [EN-US]
+- [Tidymodels](https://www.datisticsblog.com/2018/12/tidymodels/#introduction) [EN-US]
+- [Hitchhiker’s guide to Exploratory Data Analysis(Part- 2)](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-part-2-36ab72201e1d) [EN-US]
+- [Diferenças entre segmentação e clusterização](https://www.dadosaleatorios.com.br/post/diferen%C3%A7as-entre-segmenta%C3%A7%C3%A3o-e-clusteriza%C3%A7%C3%A3o/) [PT-BR]
+- [Feature Selection a Bala de Prata](http://minerandodados.com.br/index.php/2018/05/21/feature-selection-bala-de-prata/) [PT-BR]
+- [Classificando Músicas do Spotify com SVM (Com Códigos Python)](http://minerandodados.com.br/index.php/2018/04/04/spotify-svm-python/) [PT-BR]
+- [Como Utilizar Machine Learning para Prever Preços de Ações da Bolsa de Valores – O Estudo de Caso Completo.](http://minerandodados.com.br/index.php/2017/05/19/prevendo-precos-de-acoes-da-bolsa-de-valores-com-machine-learning/) [PT-BR]
+- [Modelagem de Séries Temporais com Python - SciPy-SP](http://wilsonfreitas.github.io/posts/modelagem-de-series-temporais-com-python-scipy-sp.html) [PT-BR]
+- [Regressão Linear](https://medium.com/@avinicius.adorno/regress%C3%A3o-linear-a7d7d20f39ac) [PT-BR]
+- [Como Criar um Modelo Simples para Prever Séries Temporais Usando Machine Learning em Python](http://mariofilho.com/como-criar-um-modelo-simples-para-prever-series-temporais-usando-machine-learning-em-python/) [PT-BR]
+- [Aplicando Regressão Linear com Scikit-Learn](https://matheusfacure.github.io/2017/07/19/MQO-sklearn/) [PT-BR]
+- [7 TÉCNICAS PARA REDUÇÃO DA DIMENSIONALIDADE](https://mineracaodedados.wordpress.com/2015/06/13/7-tecnicas-para-reducao-da-dimensionalidade/) [PT-BR]
+- [10 Algoritmos de Machine Learning que você precisa conhecer](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning) [PT-BR]
+- [Entenda os tipos de algoritmos de machine learning e suas aplicações](http://sas.itforum365.com.br/analytics-hub/entenda-os-4-algoritmos-de-machine-learning-e-suas-aplicacoes) [PT-BR]
+- [Python Serverless Microframework for AWS](https://github.com/aws/chalice) [EN-US]
 
 <br />
 
@@ -704,6 +720,7 @@ Segue abaixo uma lista livros pagos e gratuitos:
 - [R for Data Science](http://r4ds.had.co.nz/index.html) [EN-US]
 - [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) [EN-US]
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
+- [R for Data Science](https://r4ds.had.co.nz/index.html) [EN-US]
 
 <br />
 
