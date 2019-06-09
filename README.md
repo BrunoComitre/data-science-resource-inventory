@@ -691,6 +691,7 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [10 Algoritmos de Machine Learning que você precisa conhecer](https://www.semantix.com.br/blog/10-algoritmos-de-machine-learning) [PT-BR]
 - [Entenda os tipos de algoritmos de machine learning e suas aplicações](http://sas.itforum365.com.br/analytics-hub/entenda-os-4-algoritmos-de-machine-learning-e-suas-aplicacoes) [PT-BR]
 - [Python Serverless Microframework for AWS](https://github.com/aws/chalice) [EN-US]
+- [8 Machine Learning Algorithms in Python – You Must Learn](https://data-flair.training/blogs/machine-learning-algorithms-in-python/) [EN-US]
 
 <br />
 
