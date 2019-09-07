@@ -1,5 +1,7 @@
 # **Dicas básicas para escrever um bom artigo**
 
+[Observação] - Não sei quem me enviou ou da onde recebi, só sei que merece ser repassado, se alguém souber o criador desse texto, gostaria de referenciá-lo.
+
 Em tempo de otimização para mecanismos de buscas, blogs multiplataforma e grande volume de informação disponível está cada vez mais difícil saber o que é necessário para escrever um bom artigo. Para mim, o essencial de um bom artigo é o seguinte:
 
 1.    Ter conteúdo
