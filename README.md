@@ -1,4 +1,4 @@
-# The Catcher in the Data Science :computer:  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# The Catcher in the Data Science :computer:
 
 <u>*Um repositório de Ciência de Dados para facilitar os estudos.*</u>
 
@@ -8,24 +8,44 @@
 
 ## Índice
 
-* [Motivação](#motivação)
-* [Introducão](#Introducao)
+* [Motivação](#motivacao)
+* [Introdutório da Área](#Introducao)
 * [O que é Ciência de Dados?](o-que-e-ciencia-de-dados)
-* [MOOC's](#moocs)
+* [Curso Online Aberto e Massivo (MOOC)](#moocs)
 * [Datasets](#datasets)
 * [Blogs](#Blogs)
-* [Computação](#Computação)
-* [Matemática](#Matemática)
+* [Ciência da Computação](#ciencia-da-computacao)
+* [Matemática](#Matematica)
 * [YouTube](#youTube)
 * [Ferramentas](#ferramentas)
-* [Visualização](#visualização)
+* [Visualização](#visualizacao)
 * [Revistas](#Revistas)
+  * [Medium](#Medium)
+* [Bons Textos Separados](#bons-textos-separados)
 * [Livros](#Livros)
 * [Competições](#competicoes)
 * [Tutoriais](#Tutoriais)
 * [Outras Listas Impressionantes](#outras-listas-impressionantes)
 * [Links de Pesquisa Pirata](#links-de-pesquisa-pirata)
+* [Links de Cursos](#links-de-cursos)
+  * [Data Science Academy](#data-science-academy)
+  * [Cursos](#cursos)
+* [Relacionados](#relacionados)
 * [Imagens](#Imagens)
+* [Aonde Colocar (Diversos)](#aonde-colocar-diversos)
+  * [Github](#github)
+  * [Outros](#outros)
+  * [Segurança](#seguranca)
+* [A Criar](#a -criar)
+  * [Desenvolvimento Front-End](#desenvolvimento-front-end)
+  * [Desenvolvimento Back-End](#desenvolvimento-back-end)
+  * [Big Data](#big-data)
+  * [Teoria](#teoria)
+  * [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
+  * [Bases de Dados](#bases-de-dados)
+  * [Meios de Comunicação](#meios-de-comunicacao)
+  * [Aprender](#aprender)
+  * [Negócios](#negocios)
 
 <br />
 
@@ -35,17 +55,39 @@
 
 Este é um repositório de atalhos para começar a estudar **Ciência de Dados **. 
 
-Começamos com um O que é Ciência de Dados?. Leituras báscisas para você compreender mais sobre o que é Ciência de Dados e o que devo estudar para aprender Ciência de Dados.
+**Um adendo importante é que pretendo focar na área de segurança. Então neste reposiório terei uma parte onde deixarei alguns links e informativos voltados a Segurança da Informação.**
+
+Começamos com um O que é Ciência de Dados?. Leituras básicas para você compreender mais sobre o que é Ciência de Dados e o que devo estudar para ser um profissinal desejado pelas empresas.
 
 Os próximos passos estão separados em Cursos (MOOC´s), para aprendizados; Conjunto de Dados para estudo; Blogs que reunem os temas mais quentes e atualizados da área;links de computação para conhecimento geral; links do Youtube voltados aos melhores cursos mencionados pela comunidade; ferramentas para produção de análise; revistas onlines; links de livros para estudo e para comprar; sites que reuném competições para aumentar as skills de Cientista de Dados; Tutoriais de ferramentas principais; Algumas das melhores listas e repositórios para estudo de Ciência de Dados; links de pesquisa. 
 
+A ideia da lista não é fazer com que eu seja um Cientista de Dados Unicórnio, mas quando eu for um Cientista de Dados eu tenha um No hall de tudo que engloba a área, e possa conversar com os diversos profissionais envolvidos na área de forma que consiga definir os melhores projetos e approaches  ao qual virei a trabalhar. 
+
 Foi reunido aqui referências que ao longo dos estudos foram aparecendoe de pesquisas diversas para facilitar os estudos e o entendimento. Não é um passo a passo para se tornar um Cientista de Dados, mas sim serve como um Guia para aqueles que buscam conhecimento na área, e um repositório para fácil acesso sem ficar com seu navegador lotado de favoritos desorganizados. 
 
-Por fim, grande parte do links são referentes a **Python** atualmente, a mais utilizada para Ciência de Dados.
+Por isso segue uma estrutura onde abordarei sobre:
+ - Data Engineer
+ - Data Scientist
+ - Machine Learning Engineer
+
+**Data Engineer**
+Responsável por pegar os dados crus de várias fontes e colocar os dados num Data Lake, um banco de dados onde outros membros da equipe vão acessar. Responsável por trazer, tratar e disponibilizar os dados de diversas fontes em um único lugar para a equipe. Em alguns lugares conhecido como Big Data Developer, que seria um Data Engineer, alguém que vai disponibilizar os dados, mas que tem conhecimento em Big Data, ou seja, tem conhecimento de programas que vão trabalhar com grandes conjuntos de dados como o Apache Spark ou o Apache Hadoop. A função do Data Lake é apenas para armazenar os dados, o tratamento será feito no momento da leitura dos dados. A ideia do Data Lake é porque um Data Warehouse tem dados tratados e limpos, seria mais demorado e consequentemente perderia dados/valor. Uma arquitetura de Data Pipeline suporta batch e processing e real-time. Em se falar de sistema distribuído, não necessariamente estamos falando apenas da arquitetura Hadoop.
+
+**Data Scientist**
+Responsável por pegar os dados disponibilizados pelo Data Engineer e racionalizar esses dados. Pegar os dados e criar modelos de Machine Learning para resolver os problemas. Criar Modelos de Previsão ou Algoritmos de Classificação para resolver algumas coisas. Pegas as informações que provavelmente estão dentro de um Data Lake, e o Data Scientist vai racionalizar essas coisas, vai racionalizar esses modelos e vai tentar encontrar o melhor modelo possível para melhorar os resultados. É o cara que vai ficar tentando racionalizar os Dados, pensar nas melhores soluções e tentar resolver os problemas.
+
+**Machine Learning Engineer**
+Ele vem para colocar o modelo que o Data Scientist criou em Produção. Basicamente pega o modelo que o Data Scientist e coloca isso de uma forma escalável
 
 <br />
 
 ## Introdutório da Área
+
+Link de Ferramentas a se aprender: [roteiro do desenvolvedor](https://github.com/kamranahmedse/developer-roadmap)
+
+Guia: [Guia: Como contribuir em Open Source](https://willianjusten.com.br/guia-como-contribuir-em-open-source/)
+
+
 
 **Primeiro**
 Aprenda Python: 
@@ -53,6 +95,9 @@ Aprenda Python:
 Não precisa conhecer o Python no modo PRO, por exemplo, mas para entrar nesse mundo é preciso certos conhecimentos básicos:
 
 - Não sabe Python? Super Recomendo Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/course/curso-python-3/)
+- Tudo sobre Python [Real Python](https://realpython.com/)
+
+Frameworks Python: Falcon, Starlette (fastapi), Quart, Python on Wheels, weppy, morepath.
 
 **Segundo**
 Prepare o PC:
@@ -72,20 +117,19 @@ A seguir, algumas bibliotecas voltadas ao estudo em Ciência de Dados. Existem v
 - [**Matplotlib**](https://matplotlib.org/downloads.html) - Para plotagem de gráficos e visualização de dados.
 - [**OpenCV**](https://opencv.org/releases.html) - Para visualização e edição de imagens via Python.
 - [**Virtualenv**](https://virtualenv.pypa.io/en/stable/) - É uma ferramenta para criar ambientes Python isolados. O problema básico a ser resolvido é uma das dependências e versões e indiretamente permissões.
-- [**Pandas**](https://pandas.pydata.org/) - É uma biblioteca open source, licenciada pelo BSD, que fornece estruturas de dados de alto desempenho e fáceis de usar e ferramentas de análise de dados para a linguagem de programação Python.
+- [**Pandas**](https://pandas.pydata.org/) - É uma biblioteca Open Source, licenciada pelo BSD, que fornece estruturas de dados de alto desempenho e fáceis de usar e ferramentas de análise de dados para a linguagem de programação Python.
 - [**CharmPy**](https://charmpy.readthedocs.io/en/latest/) - É uma estrutura de programação paralela e distribuída de alto nível com uma API simples e poderosa, baseada em objetos migráveis do Python e invocação remota de métodos; construído em cima de um sistema de tempo de execução adaptável C / C ++ que fornece velocidade, escalabilidade e balanceamento dinâmico de carga.
 - [**Pip**](https://pypi.org/project/pip/) - É um sistema de gerenciamento de pacotes usado para instalar e gerenciar pacotes de software escritos na linguagem de programação Python.
 - [**SciPy**](https://www.scipy.org/) - É uma biblioteca Open Source em linguagem Python que foi feita para matemáticos, cientistas e engenheiros.
 - [**Urllib**](https://docs.python.org/3/library/urllib.html) - É um módulo Python para buscar URLs.
 - [**Beautiful Soup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - É um pacote Python para analisar documentos HTML e XML.
-- [**Kimono**](https://pypi.org/project/kimono/0.4.0/) -  Uma biblioteca Python mínima. Fortemente influenciado / plagiado a partir do pipedrive-api escrito pela fantástica hiway.
 - [**Papermill**](https://github.com/nteract/papermill) - Uma ferramenta para parametrizar, executar e analisar os Jupyter Notebooks.
 - [**Nteract**](https://github.com/nteract/nteract) - É uma ferramenta dinâmica para dar flexibilidade ao escrever código, explorar dados e criar texto para compartilhar insights sobre os dados.
 - [**RISE**](https://damianavila.github.io/RISE/installation.html) - Extensão de apresentação de slides "Live" Reveal.js Jupyter / IPython.
 - [**Scikit-learn**](http://scikit-learn.org/stable/install.html) - Biblioteca em Python com tudo quanto é tipo de algoritmo.
 
 **Observação:**
-Para quem pretende lidar com redes neurais/deep learning, é uma outra trilha. Existem quatro grandes frameworks: TensorFlow, Keras, PyTorch e Theano. Sendo TensorFolw o mais conhecido e utilizado.
+Para quem pretende lidar com redes neurais/Deep Learning, é uma outra trilha. Existem quatro grandes frameworks: TensorFlow, Keras, PyTorch e Theano. Sendo TensorFolw o mais conhecido e utilizado.
 
 **Quarto**
 TensorFlow:
@@ -122,16 +166,17 @@ Algumas coisas mais
 **Dicas Valiosas**
 Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 
-1. Conheça a trilha feita por leonardo ferreira que em 1 ano e meio se tornou cientista de dados e está na posição 30 mundial como cientista de dados Kaggle: [LINK](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/)
+1. Conheça a trilha feita por Leonardo Ferreira que em 1 ano e meio se tornou cientista de dados e está na posição 30 mundial como cientista de dados [Kaggle](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/).
 2. Organize seus estudos e não misture ou tente absorver muitos os ensinamentos.
-3. Tenha perfis no linkedin, github, Kaggle e Hacker Rank. Possua uma conta no twitter developer para text mining.
-4. Aprofunde-se bebendo ensinamento de varias fontes! exemplo: ao estudar python, leia ebooks e diversos outros materiais de diversas fontes pois cada curso possui uma didática diferente e se você "empacar" em alguma matéria ok, é comum: busque outras didáticas até entender.
+3. Tenha perfis no Linkedin, GitHub, Kaggle e Hacker Rank. Possua uma conta no Twitter developer para mineração de texto.
+4. Aprofunde-se bebendo ensinamento de varias fontes! exemplo: ao estudar Python, leia e-books e diversos outros materiais de diversas fontes pois cada curso possui uma didática diferente e se você "empacar" em alguma matéria ok, é comum: busque outras didáticas até entender.
 5. Se quiser e puder, invista em cursos pagos e especializações..
 6. Utilize e aprenda com mapas conceituais.
 
 ***
 
-**Meio que obrigatóriamente, entenda:**
+**Meio que obrigatoriamente, entenda:**
+
 - Modelagem Preditiva.
 - Naive Bayes.
 - Análise de Séries Temporais e Visualização.
@@ -140,7 +185,7 @@ Segue abaixo algumas dicas para você poder ir trilhando seu caminho :
 - Análise univariada.
 - Análise bivariada.
 - Gráficos para quando e como utilizar.
-- Variaveis Qualitativas e Quantitativas.
+- Variáveis Qualitativas e Quantitativas.
 - Requisitos básicos matemáticos..
 - Noções de otimização analítica  e numérica.
 - Conheça ferramentas para extração de dados na web.
@@ -173,22 +218,15 @@ Segue abaixo uma lista de sites que dispõe de uma introdução sobre o que é C
 - [Tornando-se um cientista de dados - Currículo via Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) [EN-US]
 - [O que é Ciência de Dados](http://www.datascientists.net/what-is-data-science) [EN-US]
 - [Teorias por trás da Ciência de Dados](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/) [EN-US]
-- [WIKIPEDIA - Ciência de Dados](https://en.wikipedia.org/wiki/Data_science) [EN-US]
-- [Por que se tornar um cientista de dados?](http://newdatascientist.blogspot.com/2012/11/why-become-data-scientist.html#sthash.N6ucHqEI.dpbs) [EN-US]
-- [O que é ciência de dados?](https://datajobs.com/what-is-data-science) [EN-US]
-- [Cientista de dados: o emprego mais sexy do século 21](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) [EN-US]
-- [Cientistas de Dados Sexy e Sociais](https://www.forbes.com/sites/gilpress/2012/11/24/big-data-news-of-the-week-sexy-and-social-data-scientists/#69ffb385aa1e) [EN-US]
-- [Dados de Opinião como Ciências Sociais](https://www.information-management.com/opinion/data-as-a-social-science) [EN-US]
-- [Big Data "Eurekas!" Não aconteça apenas](https://hbr.org/2012/11/eureka-doesnt-just-happen) [EN-US]
 - [Ciência de Dados do Zero à Kaggle Kernels Master](https://medium.com/ensina-ai/ci%C3%AAncia-de-dados-do-zero-%C3%A0-kaggle-kernels-master-7f735d7fceb2) [PT-BR]
-- [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737) [PT-BR]
 - [12 erros comuns em Ciência de Dados que comprometem a tomada de decisão](https://cio.com.br/12-erros-comuns-em-ciencia-de-dados-que-comprometem-a-tomada-de-decisao/) [PT-BR]
 - [10 tipos de profissionais de dados : de engenheiros de dados a big data DevOps e analistas de dados , em qual dessas classificações você se encaixaria ?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
 - [O que é Machine Learning e como aprender sem gastar nada](https://paulovasconcellos.com.br/o-que-e-machine-learning-e-como-aprender-sem-gastar-nada-2e612f13102b) [PT-BR]
+- [PARA INICIAR EM DATA SCIENCE](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) [PT-BR]
 
 <br />
 
-## MOOC's
+## Curso Online Aberto e Massivo (MOOC)
 
 Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e gratuitos: 
 - [edX](https://www.edx.org) [EN-US] - Aprendizagem flexível de programação.
@@ -229,6 +267,7 @@ Segue abaixo uma lista de sites que dispõe de uma variedade cursos pagos e grat
 - [Google Developers](https://developers.google.com/machine-learning/crash-course/) [EN-US] - O Curso de Aprendizado de Aprendizado de Máquina.
 - [Acclaim](https://www.youracclaim.com/skills/data-science/related_badges) [EN-US] - Conclua uma série de cursos on-line de Ciência de Dados.
 - [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
+- [Dataquest](https://www.dataquest.io) [PT-BR] - Aprenda Python, R, SQL, visualização de dados, análise de dados e aprendizado de máquina.
 
 <br />
 
@@ -362,10 +401,11 @@ Segue abaixo uma lista de sites pessoais e de companhias voltado a Ciência de D
 - [7WDATA](https://www.7wdata.be/) [EN-US] -  É o Hotspot sobre novas notícias de todas as coisas.
 - [mathbabe](https://mathbabe.org//) [EN-US] -  Explorar e desabafar sobre questões quantitativas.
 - [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) [PT-BR] - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+- [Shane Lynn](https://www.shanelynn.ie/) [EN-US] - Personal Blog.
 
 <br />
 
-## Computação
+## Ciência da Computação
 
 Segue abaixo uma lista de sites preferidos que dispõe de uma variedade de assuntos relacionados a computação no geral: 
 - [The ACM Digital Library](https://dl.acm.org/) [EN-US] -  É uma plataforma de pesquisa, descoberta e rede que contém a coleção de texto completo de todas as publicações da ACM, incluindo revistas, anais de congressos, revistas técnicas, boletins informativos e livros.
@@ -410,6 +450,7 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Canal [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured) [EN-US] - Aprenda a desenvolver e construir Inteligência Artificial, Jogos, música, chatbots, arte, utilizando Python.
 - Canal [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) [EN-US] - Aprender a Ciência de Dados para obter seu primeiro trabalho como Cientista de Dados.
 - Canal [Prof. Fernando Amaral](https://www.youtube.com/channel/UC6w56wRjrbbZk-cX46SuxPA) [PT-BR] - Canal com conteúdo de Aprendizado de Máquina, Big Data, NoSQL e Assuntos Relacionados.
+- Canal [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw) [PT-BR] - Um canal sobre Python e desenvolvimento de software de uma maneira geral.
 - Playlist [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) [PT-BR] - Curso de Python 3 Mundo 1 Fundamentos.
 - Playlist [Canal USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm) [PT-BR] - Aulas USP | Inteligência Artificial em saúde: o uso de Machine Learning.
 - Playlist [prof. Ronaldo Ramos, do IFET-CE](https://www.youtube.com/playlist?list=PL51430F6C54953B73) [PT-BR] - Lógica de Programação Usando Python Curso Completo.
@@ -422,6 +463,7 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Playlist [mrshmt](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A) [EN-US] - Aprendendo com os Dados.
 - Playlist [Código Logo - Programação e Inteligência Artificial](https://www.youtube.com/watch?v=hQGeRCBTKGs) [EN-US] - Python Natural Language Processing - Intro to spaCy.
 - Playlist [sentdex](https://www.youtube.com/watch?v=7uhMemi2mFc&index=4&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I) [EN-US] - Introdução e Fundamentos - Tutorial do Python Reddit API Wrapper (PRAW).
+- Playlist [Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) [EN-US] - Machine Learning Recipes with Josh Gordon.
 - Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) [EN-US] - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
 - Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) [EN-US] -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
 - Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) [EN-US] - Uma abordagem de aprendizado de máquina inspirada no cérebro.
@@ -581,13 +623,22 @@ Segue abaixo uma lista de sites preferidos para se manter informado, tanto em te
 - [Journal of Big Data](http://journalofbigdata.springeropen.com/) [EN-US] - Publica trabalhos acadêmicos de alta qualidade, metodologias e estudos de caso abrangendo uma ampla gama de tópicos, desde análise de big data a computação intensiva em dados e todas as aplicações de pesquisa em big data.
 - [Big Data & Society](http://journals.sagepub.com/home/bds) [EN-US] - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
+
+### Medium
+
 - [Medium Data Science Topic](https://medium.com/topic/data-science) [EN-US] - Publicações relacionadas à Ciência de Dados no Medium.
+- [O Specstimate](https://medium.com/specstimate) [EN-US] - Histórias, e ideais que ajudam você a planejar com mais inteligência e entregar melhor.
+- [Data Hackers](https://medium.com/data-hackers) [PT-BR] - A maior comunidade de Data Science do Brasil
+- [freeCodeCamp](https://www.freecodecamp.org/news/) [EN-US] - Não está mais no Medium, mas deixei aqui por ordem de uso.
+- [hackernoon](https://hackernoon.com/) [EN-US] - Não está mais no Medium, mas deixei aqui por ordem de uso.
+- [towardsdatascience](https://towardsdatascience.com/) [EN-US] - Rumo à Ciência de Dados, compartilhando conceitos, idéias e códigos.
+- [becominghuman](https://becominghuman.ai/) [EN-US] - Explorando a inteligência artificial e o que significa ser humano.
 
 <br />
 
 ## Bons Textos Separados
 
-Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para Ciência de Dados: 
+Segue abaixo uma lista de links salvos de fui juntando ao longo dos estudos para Ciência de Dados: 
 - [Qual a importância da Análise Exploratória de Dados?](https://oestatistico.com.br/analise-exploratoria-de-dados/) [PT-BR]
 - [Aprendendo sobre web scraping em Python utilizando BeautifulSoup](https://imasters.com.br/back-end/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup) [PT-BR]
 - [Imagens Docker prontas para executar contendo aplicativos Jupyter](https://github.com/jupyter/docker-stacks) [EN-US]
@@ -693,6 +744,18 @@ Segue abaixo uma lista de links salvos de fui juntanto ao longo dos estudos para
 - [Python Serverless Microframework for AWS](https://github.com/aws/chalice) [EN-US]
 - [8 Machine Learning Algorithms in Python – You Must Learn](https://data-flair.training/blogs/machine-learning-algorithms-in-python/) [EN-US]
 
+-----------------------------------------------------------------------------
+
+- [10 hacks simples para acelerar sua análise de dados em Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) [EN-US]
+- [10 razões pelas quais os projetos de desenvolvimento de software falham](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e) [PT-BR]
+- [Criando um modelo NLP de classificação de tweets com fklearn](https://medium.com/data-hackers/criando-um-modelo-nlp-de-classifica%C3%A7%C3%A3o-de-tweets-com-fklearn-b8ff88b96cde) [PT-BR]
+- [Ludwig é uma caixa de ferramentas que permite treinar e testar modelos de aprendizado profundo sem a necessidade de escrever código.](https://uber.github.io/ludwig/) [EN-US]
+- [Deseja se tornar um engenheiro de dados? Aqui está uma lista abrangente de recursos para começar](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/?source=post_page---------------------------) [EN-US]
+- [O Problemeter: Uma planilha que ajuda as startups a resolver o problema certo](https://hackernoon.com/the-problemeter-a-sheet-that-helps-startups-solve-the-right-problem-qy7o34wv) [EN-US]
+- [Guia para iniciantes em modelagem de tópicos em Python](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/) [EN-US]
+- [Tutorial Gensim - Um Guia Completo para Iniciantes](https://www.machinelearningplus.com/nlp/gensim-tutorial/) [EN-US]
+- [Pré-processamento de dados de texto: Um passo a passo em Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html) [EN-US]
+
 <br />
 
 ## Livros
@@ -722,6 +785,15 @@ Segue abaixo uma lista livros pagos e gratuitos:
 - [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) [EN-US]
 - [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
 - [R for Data Science](https://r4ds.had.co.nz/index.html) [EN-US]
+- [Syncfusion - Ebooks](https://www.syncfusion.com/ebooks) [EN-US]
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) [EN-US]
+- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality) [EN-US]
+- [Go Books](https://github.com/dariubs/GoBooks) [EN-US]
+- [R Books](https://github.com/RomanTsegelskyi/rbooks) [EN-US]
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) [EN-US]
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring) [EN-US]
+- [Elixir Books](https://github.com/sger/ElixirBooks) [EN-US]
+
 
 <br />
 
@@ -821,6 +893,7 @@ Segue abaixo listas com mais conteudos de Ciência de Dados que elevam em x1000 
 - [Awesome Public Datasets](https://github.com/shubhamjn1/awesome-public-datasetst)  [EN-US] - Uma lista de conjuntos de dados abertos de alta qualidade em domínios públicos.
 - [Cursos de Python](https://github.com/weltonvaz/cursos) [PT-BR] - Cursos e apostilas gratuitos online de Python.
 - [Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) [PT-BR] - Este repositório foi feito pela e para a comunidade. 
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)  [EN-US] - Este repositório contém uma lista com curadoria de incríveis bibliotecas de código aberto que ajudarão você a implantar, monitorar, versão, dimensionar e proteger o aprendizado de máquina de produção.
 
 <br />
 
@@ -830,9 +903,9 @@ Como achar mais coisas sobre qualquer coisa, incluindo a temática Data Science?
 
 A maioria dos artigos e livros são pagos, pois o conhecimento não é livre em nossa sociedade. Porém um conjunto de pesquisadores se reuniu para libertar o conhecimento, fundando o Sci-Hub, o LibGen e outras iniciativas, por isso são processados pelas editoras em milhões de dólares, pois elas lucram mantendo a população na ignorância.
 
-[LibGen](www.libgen.pw) - É um motor de busca de artigos científicos e livros de ficção, tem mais de 2 milhões de artigos científicos (que são publicados por pesquisadores de universidades de todo o mundo) e 2.7 milhões de livros de ficção em várias líguas, principalmente o inglês, mas é possível achar conteúdos em português
+[LibGen](www.libgen.pw) - É um motor de busca de artigos científicos e livros de ficção, tem mais de 2 milhões de artigos científicos (que são publicados por pesquisadores de universidades de todo o mundo) e 2.7 milhões de livros de ficção em várias línguas, principalmente o inglês, mas é possível achar conteúdos em português
 
-[Sci-Hub](www.sci-hub.pw) - É um repositório online com mais de 64 milhões artigos científicos , disponíveis no seu website. Novos documentos são enviados diariamente através de domínios de instituições de ensino, que contornam sistemas que restringem o acesso a usuários da Internet sem registros pagos em seus sites. Foi fundado por uma neurocientista do casaquistão. Para conseguir um artigo científico, basta colocar o DOI (Digital Object Identifier - um padrão para identificar objetos digitais) no campo de pesquisa e o site vai te redirecionar para adquirir o artigo. Um bom site para pegar DOIs é no [ScienceDirect](https://www.sciencedirect.com/)
+[Sci-Hub](www.sci-hub.pw) - É um repositório online com mais de 64 milhões artigos científicos , disponíveis no seu website. Novos documentos são enviados diariamente através de domínios de instituições de ensino, que contornam sistemas que restringem o acesso a usuários da Internet sem registros pagos em seus sites. Foi fundado por uma neurocientista do Cazaquistão. Para conseguir um artigo científico, basta colocar o DOI (Digital Objeto Identifier - um padrão para identificar objetos digitais) no campo de pesquisa e o site vai te redirecionar para adquirir o artigo. Um bom site para pegar DOIs é no [ScienceDirect](https://www.sciencedirect.com/)
 
 [Scielo](www.scielo.org) - Artigos científicos em português
 A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana de Saúde, Biblioteca Virtual de Saúde e da Fundação de Apoio à universidade Federal de SP, onde milhares de artigos de todas as áreas podem ser encontrados em português e facilmente baixados.
@@ -840,6 +913,53 @@ A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana 
 [Z-Library](http://b-ok.xyz/) - A biblioteca Z é uma das maiores bibliotecas online do mundo. Pretendemos tornar a literatura acessível a todos. 
 
 [startpage](https://www.startpage.com/por/?#hmb) - Mecanismo de pesquisa mais privado do Mundo.
+
+<br />
+
+## Links de Cursos
+
+### Data Science Academy
+
+- Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas): [LINK](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)
+- Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas): [LINK](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
+- Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas): [LINK](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+- Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas): [LINK](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
+- Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas): [LINK](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos)
+
+---
+
+### Cursos
+
+- Introdução à Ciência da Computação com Python Parte 1 (USP): PT-BR [LINK](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+- Python Fundamentos para Análise de Dados: PT-BR [LINK](http://www.datascienceacademy.com.br/pages/curso-python-fundamentos-para-analise-de-dados)
+- Python Básico: PT-BR [LINK](https://solyd.com.br/treinamentos/python-basico)
+- Python Programming: A Concise Introduction (Wesleyan University): EN-US [LINK](https://www.coursera.org/learn/python-programming-introduction)
+- Data Analysis and Interpretation Specialization (Wesleyan University): EN-US [LINK](https://www.coursera.org/specializations/data-analysis)
+- Data Management and Visualization: EN-US [LINK](https://pt.coursera.org/learn/data-visualization)
+- Data Analysis Tools: EN-US [LINK](https://pt.coursera.org/learn/data-analysis-tools)
+- Regression Modeling in Practice: EN-US [LINK](https://pt.coursera.org/learn/regression-modeling-practice)
+- Machine Learning for Data Analysis: EN-US [LINK](https://pt.coursera.org/learn/machine-learning-data-analysis)
+- Data Analysis and Interpretation Capstone: EN-US [LINK](https://pt.coursera.org/learn/data-analysis-capstone)
+- Introduction to Computer Science and Programming Using Python (MIT): EN-US [LINK](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+- Using Python for Research (Harvard): EN-US [LINK](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+- Intro to Python for Data Science: EN-US [LINK](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- Introduction To Python Programming: EN-US [LINK](https://www.udemy.com/pythonforbeginnersintro/)
+- Learn Python: Python for Beginners: EN-US [LINK](https://www.udemy.com/learn-python/)
+- Python for Beginners with Examples: EN-US [LINK](https://www.udemy.com/ardit-sulce-python-for-beginners/)
+- Python for Absolute Beginners: EN-US [LINK](https://www.udemy.com/python-for-absolute-beginners-u/)
+- Learn Python, it's CAKE (Beginners): EN-US [LINK](https://www.udemy.com/learning-python-not-the-snake/)
+- Deep Learning Prerequisites: The Numpy Stack in Python: EN-US [LINK](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/)
+- Start Programming Today with Python!: EN-US [LINK](https://www.udemy.com/free-python/)
+- Making Graphs in Python using Matplotlib for Beginners: EN-US [LINK](https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/)
+- Python Object Oriented Full Guide: EN-US [LINK](https://www.udemy.com/python-object-oriented-from-scratch/)
+- Google's Python Class: EN-US [LINK](https://developers.google.com/edu/python/)
+
+<br />
+
+## Relacionados
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Pesquise o conjunto de dados Awesome.
+- [Awesome Search](https://awesomelists.top) - Pesquisa rápida por listas impressionantes.
 
 <br />
 
@@ -854,3 +974,60 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 **Copiar tudo do StackOverflow, não te faz entender nada, apenas te torna um bom copiador!**
 
 <br />
+
+## Aonde Colocar (Diversos)
+
+### Github:
+
+- https://github.com/containous/traefik
+- https://github.com/cleder/restsims
+- https://github.com/toml-lang/toml
+- https://github.com/lutzroeder/netron
+- https://github.com/uwdata/visualization-curriculum
+- https://github.com/rasbt/deeplearning-models
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/abhat222/Data-Science--Cheat-Sheet
+- https://github.com/SuperCowPowers/data_hacking
+- https://github.com/benedekrozemberczki/awesome-graph-classification
+- https://github.com/emptymalei/awesome-research
+- https://github.com/fasouto/awesome-dataviz
+- https://github.com/mfornos/awesome-microservices
+-(https://github.com/dylanrees/citizen-science
+
+### Outros:
+
+- https://readthedocs.org/
+- http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html
+- https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
+
+### Segurança
+
+Os links abaixo vieram de: [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+
+<br />
+
+## A Criar
+
+### Desenvolvimento Front-End
+### Desenvolvimento Back-End
+### Big Data
+### Teoria
+### Ambiente de Desenvolvimento
+### Bases de Dados
+### Meios de Comunicação
+### Aprender
+### Negócios
