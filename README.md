@@ -755,6 +755,7 @@ Segue abaixo uma lista de links salvos de fui juntando ao longo dos estudos para
 - [Guia para iniciantes em modelagem de tópicos em Python](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/) [EN-US]
 - [Tutorial Gensim - Um Guia Completo para Iniciantes](https://www.machinelearningplus.com/nlp/gensim-tutorial/) [EN-US]
 - [Pré-processamento de dados de texto: Um passo a passo em Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html) [EN-US]
+- [Mais 10 bibliotecas de Data Science para Python que ninguém te conta](https://medium.com/data-hackers/mais-10-bibliotecas-de-data-science-para-python-que-ninguém-te-conta-1a636837a404) [PT-BR]
 
 <br />
 
