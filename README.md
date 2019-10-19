@@ -915,6 +915,8 @@ A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana 
 
 [startpage](https://www.startpage.com/por/?#hmb) - Mecanismo de pesquisa mais privado do Mundo.
 
+[Open Library](https://openlibrary.org/) - Este site permite pegar livros digitais em inglês emprestados.
+
 <br />
 
 ## Links de Cursos
