@@ -999,6 +999,7 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - https://github.com/mfornos/awesome-microservices
 - https://github.com/dylanrees/citizen-science
 - https://github.com/minimaxir/big-list-of-naughty-strings
+- https://github.com/rsalmei/alive-progress
 
 ### Outros:
 
