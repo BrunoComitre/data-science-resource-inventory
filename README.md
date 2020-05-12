@@ -1006,6 +1006,7 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - https://readthedocs.org/
 - http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
+- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
 ### Segurança
 
