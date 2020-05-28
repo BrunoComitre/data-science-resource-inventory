@@ -645,6 +645,7 @@ Segue abaixo uma lista de links salvos de fui juntando ao longo dos estudos para
 - [Aprendendo sobre web scraping em Python utilizando BeautifulSoup](https://imasters.com.br/back-end/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup) [PT-BR]
 - [Imagens Docker prontas para executar contendo aplicativos Jupyter](https://github.com/jupyter/docker-stacks) [EN-US]
 - [Stanford - CS 229 - Machine Learning, Deep Learning - Professor Thiago Marques](https://stanford.edu/~shervine/teaching/cs-229.html) [EN-US]
+- [Sua empresa não precisa de um Data Lake para iniciar um projeto de Machine Learning](https://medium.com/@kunumi/sua-empresa-n%C3%A3o-precisa-de-um-data-lake-para-iniciar-um-projeto-de-machine-learning-c1c1a4ba0f54) [PT-BR]
 - [lambda, map and filter in Python](https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593) [EN-US]
 - [List comprehension in Python](https://hackernoon.com/list-comprehension-in-python-8895a785550b) [EN-US]
 - [Educação em Ciência de Dados mais Rápida - KAGGLE](https://www.kaggle.com/learn/overview) [EN-US]
@@ -1007,6 +1008,8 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
 - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+- https://www.duckdb.org/
+- https://www.it-swarm.dev/pt/nltk/
 
 ### Segurança
 
