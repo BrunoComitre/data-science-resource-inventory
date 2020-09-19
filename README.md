@@ -9,23 +9,23 @@
 ## Índice
 
 - [The Catcher in the Data Science :computer:](#the-catcher-in-the-data-science-computer)
-  - [Índice](#%c3%8dndice)
-  - [Motivação](#motiva%c3%a7%c3%a3o)
-  - [Introdutório da Área](#introdut%c3%b3rio-da-%c3%81rea)
-  - [O que é Ciência de Dados?](#o-que-%c3%a9-ci%c3%aancia-de-dados)
+  - [Índice](#índice)
+  - [Motivação](#motivação)
+  - [Introdutório da Área](#introdutório-da-área)
+  - [O que é Ciência de Dados?](#o-que-é-ciência-de-dados)
   - [Curso Online Aberto e Massivo (MOOC)](#curso-online-aberto-e-massivo-mooc)
   - [Datasets](#datasets)
   - [Blogs](#blogs)
-  - [Ciência da Computação](#ci%c3%aancia-da-computa%c3%a7%c3%a3o)
-  - [Matemática](#matem%c3%a1tica)
+  - [Ciência da Computação](#ciência-da-computação)
+  - [Matemática](#matemática)
   - [YouTube](#youtube)
+  - [API PSI](#api-psi)
   - [Ferramentas](#ferramentas)
-  - [Visualização](#visualiza%c3%a7%c3%a3o)
+  - [Visualização](#visualização)
   - [Revistas](#revistas)
-    - [Medium](#medium)
   - [Bons Textos Separados](#bons-textos-separados)
   - [Livros](#livros)
-  - [Competições](#competi%c3%a7%c3%b5es)
+  - [Competições](#competições)
   - [Tutoriais](#tutoriais)
   - [Outras Listas Impressionantes](#outras-listas-impressionantes)
   - [Links de Pesquisa Pirata](#links-de-pesquisa-pirata)
@@ -37,7 +37,7 @@
   - [Aonde Colocar (Diversos)](#aonde-colocar-diversos)
     - [Github:](#github)
     - [Outros:](#outros)
-    - [Segurança](#seguran%c3%a7a)
+    - [Segurança](#segurança)
   - [A Criar](#a-criar)
     - [Desenvolvimento Front-End](#desenvolvimento-front-end)
     - [Desenvolvimento Back-End](#desenvolvimento-back-end)
@@ -45,9 +45,9 @@
     - [Teoria](#teoria)
     - [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
     - [Bases de Dados](#bases-de-dados)
-    - [Meios de Comunicação](#meios-de-comunica%c3%a7%c3%a3o)
+    - [Meios de Comunicação](#meios-de-comunicação)
     - [Aprender](#aprender)
-    - [Negócios](#neg%c3%b3cios)
+    - [Negócios](#negócios)
 
 <br />
 
@@ -472,6 +472,15 @@ Segue abaixo uma lista de Canais do Youtube, Vídeos que gostei e Playlist para 
 - Video [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk) [EN-US] - Fala sobre aprendizagem profunda.
 - Video [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk) [EN-US] - Definição, fornecer alguns exemplos de aprendizado de máquina e explicar em alto nível como o aprendizado de máquina funciona.
 - Video [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o) [EN-US] - Esta palestra é direcionada para qualquer pessoa que seja apaixonada por entender algoritmos e códigos para definir e alavancar padrões em dados.
+- Video [O que vem após o NoSQL? NewSQL: uma nova era de desafios no processamento de dados escalável](https://www.youtube.com/watch?v=uBCTtfUq2XQ) [PT-BR] - Esta palestra é sobre NewSQL.
+
+<br />
+
+## API PSI
+
+- [Research-  protocols and structures for inference a res tful api for machine learning - James Montgomery](https://pt.slideshare.net/papisdotio/research-protocols-and-structures-for-inference-a-res-tful-api-for-machine-learning-james-montgomery) [EN-US] - Montar estrutura de API de Machine Leaning.
+- [Protocols and Structures for Inference Project](https://github.com/psi-project) [EN-US] - Projeto GitHub.
+- [Evolutionary Database Design](https://www.martinfowler.com/articles/evodb.html#everything_refactoring) [EN-US] - Estrutura de Databases.
 
 <br />
 
@@ -626,16 +635,6 @@ Segue abaixo uma lista de sites preferidos para se manter informado, tanto em te
 - [Big Data & Society](http://journals.sagepub.com/home/bds) [EN-US] - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
 
-### Medium
-
-- [Medium Data Science Topic](https://medium.com/topic/data-science) [EN-US] - Publicações relacionadas à Ciência de Dados no Medium.
-- [O Specstimate](https://medium.com/specstimate) [EN-US] - Histórias, e ideais que ajudam você a planejar com mais inteligência e entregar melhor.
-- [Data Hackers](https://medium.com/data-hackers) [PT-BR] - A maior comunidade de Data Science do Brasil
-- [freeCodeCamp](https://www.freecodecamp.org/news/) [EN-US] - Não está mais no Medium, mas deixei aqui por ordem de uso.
-- [hackernoon](https://hackernoon.com/) [EN-US] - Não está mais no Medium, mas deixei aqui por ordem de uso.
-- [towardsdatascience](https://towardsdatascience.com/) [EN-US] - Rumo à Ciência de Dados, compartilhando conceitos, idéias e códigos.
-- [becominghuman](https://becominghuman.ai/) [EN-US] - Explorando a inteligência artificial e o que significa ser humano.
-
 <br />
 
 ## Bons Textos Separados
@@ -759,7 +758,9 @@ Segue abaixo uma lista de links salvos de fui juntando ao longo dos estudos para
 - [Tutorial Gensim - Um Guia Completo para Iniciantes](https://www.machinelearningplus.com/nlp/gensim-tutorial/) [EN-US]
 - [Pré-processamento de dados de texto: Um passo a passo em Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html) [EN-US]
 - [Mais 10 bibliotecas de Data Science para Python que ninguém te conta](https://medium.com/data-hackers/mais-10-bibliotecas-de-data-science-para-python-que-ninguém-te-conta-1a636837a404) [PT-BR]
-
+- [Microdados HTML](https://www.w3.org/TR/microdata/) - Define novos atributos HTML para incorporar dados simples legíveis por máquina em documentos HTML.
+- [Introduction to SVELTE](https://medium.com/swlh/introduction-to-svelte-cdfaba91700) - Uma estrutura JavaScript para construir interfaces de usuário rápidas, bonitas e reativas.
+- 
 <br />
 
 ## Livros
@@ -1010,6 +1011,7 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 - https://www.duckdb.org/
 - https://www.it-swarm.dev/pt/nltk/
+- https://edgedb.com/
 
 ### Segurança
 
