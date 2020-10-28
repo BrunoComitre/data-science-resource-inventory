@@ -760,7 +760,10 @@ Segue abaixo uma lista de links salvos de fui juntando ao longo dos estudos para
 - [Mais 10 bibliotecas de Data Science para Python que ninguém te conta](https://medium.com/data-hackers/mais-10-bibliotecas-de-data-science-para-python-que-ninguém-te-conta-1a636837a404) [PT-BR]
 - [Microdados HTML](https://www.w3.org/TR/microdata/) - Define novos atributos HTML para incorporar dados simples legíveis por máquina em documentos HTML.
 - [Introduction to SVELTE](https://medium.com/swlh/introduction-to-svelte-cdfaba91700) - Uma estrutura JavaScript para construir interfaces de usuário rápidas, bonitas e reativas.
-- 
+- [6 Livros ‘não techs’ para Data Sciencea](https://medium.com/@paulopestanajunior/6-livros-n%C3%A3o-techs-para-data-science-7f95d972782) [PT-BR]
+- [Python Data Streamer](https://github.com/initialstate/python_appender#python-data-streamer) [EN-US]
+- [docker_django_mongodb](https://github.com/balanpradeepkumar/docker_django_mongodb) [EN-US]
+
 <br />
 
 ## Livros
@@ -1002,6 +1005,7 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - https://github.com/dylanrees/citizen-science
 - https://github.com/minimaxir/big-list-of-naughty-strings
 - https://github.com/rsalmei/alive-progress
+- https://github.com/Grupo-OpenCV-BR/tutoriais-tecnologia
 
 ### Outros:
 
@@ -1012,6 +1016,7 @@ Na pasta **img**, você encontra um compilado de imagens referentes a Ciência d
 - https://www.duckdb.org/
 - https://www.it-swarm.dev/pt/nltk/
 - https://edgedb.com/
+- https://github.com/brazil-it-groups/code-of-conduct
 
 ### Segurança
 
@@ -1030,6 +1035,7 @@ Os links abaixo vieram de: [sindresorhus/awesome](https://github.com/sindresorhu
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [ReconNote](https://github.com/0xdekster/ReconNote) - Estrutura de Automação Recon de Segurança de Aplicativos Web.
 
 <br />
 
