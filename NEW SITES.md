@@ -5,3 +5,6 @@
 - [Entre causas e efeitos: como identificar causalidade em meio a correlações](https://medium.com/big-data-blog/entre-causas-e-efeitos-como-identificar-causalidade-em-meio-a-correla%C3%A7%C3%B5es-8f6aad0a3790)
 
 - [Redes Neurais Recorrentes: uma breve introdução](https://dataml.com.br/redes-neurais-recorrentes-uma-breve-introducao/)
+
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+
