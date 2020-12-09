@@ -9,3 +9,7 @@
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 
 - [Banguroo](https://www.buguroo.com/)
+
+- [MACHINE LEARNING FOR COMPUTER SECURITY](http://www.mlsec.org/)
+
+- [MLSec Project](https://github.com/mlsecproject)
