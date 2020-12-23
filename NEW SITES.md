@@ -22,9 +22,9 @@
 
 - [Sentdex](http://sentdex.com/)
 
-- []()
+- [How to Build a Simple Machine Learning Web App in Python](https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291)
 
-- []()
+- [dongweiming/data-analysis](https://github.com/dongweiming/data-analysis/tree/master/data_analysis)
 
 - []()
 
