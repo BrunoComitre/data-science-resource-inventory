@@ -28,6 +28,30 @@
 
 - [Kyso](https://kyso.io/)
 
+- [MapMyCab: How I Chose a Data Engineering Project](https://blog.insightdatascience.com/mapmycab-how-i-chose-a-data-engineering-project-75bd659c5eec)
+
+- [INSIGHT DATA ENGINEERING FELLOWS PROGRAM](https://insightfellows.com/data-engineering)
+
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+
+- [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+
+- [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+
+- [Data Engineering — the Cousin of Data Science, is Troublesome](https://towardsdatascience.com/data-engineering-the-cousin-of-data-science-is-troublesome-3a9332b532ae)
+
+- [Scrapy Vs Selenium Vs Beautiful Soup for Web Scraping](https://medium.com/analytics-vidhya/scrapy-vs-selenium-vs-beautiful-soup-for-web-scraping-24008b6c87b8)
+
+- [WIBD Workshops 2018](https://github.com/NFLX-WIBD/WIBD-Workshops-2018)
+
+- [Predicting the Fake News using Python](https://morioh.com/p/cec8f7ad0c9a?f=5c21fb01c16e2556b555ab32)
+
+- []()
+
+- []()
+
 - []()
 
 - []()
