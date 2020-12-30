@@ -924,6 +924,8 @@ A Scielo é uma biblioteca digital da FAPESP, CNPq, Organização Pan-Americana 
 
 [Open Library](https://openlibrary.org/) - Este site permite pegar livros digitais em inglês emprestados.
 
+[ScanLibs](https://scanlibs.com/) - Livros Gratuitos Novos.
+
 <br />
 
 ## Links de Cursos

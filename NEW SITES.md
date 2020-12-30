@@ -7,4 +7,3 @@
 - [Redes Neurais Recorrentes: uma breve introdução](https://dataml.com.br/redes-neurais-recorrentes-uma-breve-introducao/)
 
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
-
