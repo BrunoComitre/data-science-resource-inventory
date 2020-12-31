@@ -48,12 +48,10 @@
 
 - [Predicting the Fake News using Python](https://morioh.com/p/cec8f7ad0c9a?f=5c21fb01c16e2556b555ab32)
 
-- []()
+- [Introducing New Relic’s Dynamic Baseline Alerts](https://blog.newrelic.com/2016/11/16/dynamic-baseline-alerts/) - Análise de séries temporais.
 
-- []()
+- [CARACTERÍSTICAS DAS SÉRIES TEMPORAIS](https://operdata.com.br/blog/caracteristicas-das-series-temporais/)
 
-- []()
+- [Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html) - Detecção de Anomalia.
 
-- []()
-
-- []()
+- [Anomaly Detection, a short tutorial using Python](https://aqibsaeed.github.io/2016-07-17-anomaly-detection/) - Detecção de Anomalia.
