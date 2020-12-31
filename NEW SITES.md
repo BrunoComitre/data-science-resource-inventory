@@ -55,3 +55,33 @@
 - [Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html) - Detecção de Anomalia.
 
 - [Anomaly Detection, a short tutorial using Python](https://aqibsaeed.github.io/2016-07-17-anomaly-detection/) - Detecção de Anomalia.
+
+- [mxGraph](https://github.com/jgraph/mxgraph) - Widgets de gráfico / fluxo de dados.
+
+- [Altair](https://altair-viz.github.io/) - Altair é uma biblioteca declarativa de visualização estatística para Python, baseada na poderosa gramática de visualização Vega-Lite -Visualização.
+
+- [Bokeh](http://bokeh.pydata.org/en/latest/) - O Bokeh é uma biblioteca de visualização interativa Python que tem como alvo navegadores modernos para apresentação -Visualização.
+
+- [Matplotlib D3 (mpld3)](http://mpld3.github.io/) - O projeto mpld3 reúne o Matplotlib, a popular biblioteca de gráficos baseada em Python, e o D3js, a popular biblioteca JavaScript para criar visualizações de dados interativas para a web -Visualização.
+
+- [Data-Driven Documents](https://d3js.org/) - D3.js é uma biblioteca JavaScript para manipular documentos com base em dados -Visualização.
+
+- [Usando o Flask para servir um modelo de aprendizado de máquina como um serviço web RESTful](https://www.youtube.com/watch?v=s-i6nzXQF3g) - Artigo.
+
+- [Padronizando as APIs de serviço da Web do mundo de Machine Learning](http://www.kdnuggets.com/2015/07/psi-machine-learning-web-service-apis.html) - Artigo.
+
+- [API de descanso de aprendizado de máquina em um Docker](https://juan-medina.com/2015/12/05/machine-learning-docker/) - Artigo.
+
+- [Using Flask to serve a machine learning model as a RESTful webservice](https://www.youtube.com/watch?v=s-i6nzXQF3g)
+
+- [Fastapi Vue.js - Integração Python Javascript](https://medium.com/@marciobbarbosa/fastapi-vue-js-integração-python-javascript-ddab7e6905a4)
+
+- [How to Build a Simple Machine Learning Web App in Python](https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291)
+
+- [docker-ml-api](https://github.com/juan-medina/docker-ml-api)
+
+- [Python Web Scraping](https://github.com/lorien/awesome-web-scraping/blob/master/python.md) - Repositório Awesome Github.
+
+- [Construindo um serviço de recomendação de filmes com o Apache Spark & Flask - Parte 2](https://www.codementor.io/jadianes/building-a-web-service-with-apache-spark-flask-example-app-part2-du1083854) - Artigo.
+
+- [Apache PredictionIO](https://predictionio.incubator.apache.org/) - Machine learning as a service.
