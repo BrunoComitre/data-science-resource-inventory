@@ -144,3 +144,7 @@ Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatasci
 - [Hipsters.Tech](https://hipsters.tech/category/podcast/)
 - [Data Hackers](https://datahackers.com.br/podcast)
 
+### AWESOME
+
+- [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
