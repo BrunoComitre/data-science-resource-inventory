@@ -137,3 +137,10 @@
 - [Ciência de Dados por uma Causa](https://sites.google.com/view/cienciacausa/a%C3%A7%C3%B5es-registradas)
 
 Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095). Aprender e colocar em prática: [nbdev](https://github.com/fastai/nbdev) e [@jupyterlab/debugger](https://github.com/jupyterlab/debugger)
+
+## Poadcast
+
+- [Pizza de Dados](https://pizzadedados.com/)
+- [Hipsters.Tech](https://hipsters.tech/category/podcast/)
+- [Data Hackers](https://datahackers.com.br/podcast)
+
