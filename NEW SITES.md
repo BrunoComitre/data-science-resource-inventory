@@ -148,3 +148,161 @@ Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatasci
 
 - [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Ciência de Dados: notebooks Python: Aprendizado profundo (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS e vários comandos linhas.
+- [Awesome R](https://github.com/qinwf/awesome-R) - Uma lista curada de incríveis pacotes R, frameworks e software.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Uma lista centrada em tópicos de conjuntos de dados abertos de alta qualidade em domínios públicos..
+[Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) - Este repositório foi feito pela e para a comunidade. 
+
+## Competitions
+
+Below is a list of sites to put Python knowledge into practice:
+
+- [Kaggle](https://www.kaggle.com/) - Kaggle é o lugar para fazer projetos de Ciência de Dados.
+
+[GO TO INDEX](#index)
+
+<br />
+
+
+- [Netron ](https://github.com/lutzroeder/netron) -  Is a viewer for neural network, deep learning and machine learning models.
+- [Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks, using [Vega-Lite](https://vega.github.io/vega-lite/) and [Altair](https://altair-viz.github.io/).
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+
+- [](https://github.com/jivoi/awesome-ml-for-cybersecurity) - 
+- [](https://github.com/abhat222/Data-Science--Cheat-Sheet) - 
+- [](https://github.com/SuperCowPowers/data_hacking) - 
+- [](https://github.com/benedekrozemberczki/awesome-graph-classification) - 
+
+- [](https://github.com/thedatasociety/)
+
+- [Albumentations](https://github.com/albumentations-team/albumentations) - 
+- [](https://github.com/abhat222/Data-Science--Cheat-Sheet) - 
+- [](https://github.com/pymatting/pymatting) - 
+- [](https://github.com/dendory/chartjs) - 
+- [Dask](https://github.com/dask/dask) - Is a flexible parallel computing library for analytics.
+
+
+[Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+
+
+### Books
+
+Below is a list of paid and free books:
+
+- [Syncfusion - Ebooks](https://www.syncfusion.com/ebooks)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Elixir Books](https://github.com/sger/ElixirBooks)
+- [The Linux Programming Interface](https://archive.org/details/The_Linux_Programming_Interface/mode/2up)
+- [Sitepoint Books](https://www.sitepoint.com/)
+
+- [Data Science do Zero. Primeiras Regras com o Python](https://www.amazon.com.br/gp/product/857608998X/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=857608998X&linkId=ca962763fa0115715ca78099451bbfde)
+- [Python Para Análise de Dados](https://www.amazon.com.br/gp/product/8575226479/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8575226479&linkId=46bee8241a40ad51f2ad2f50aab79a17)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability)
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science)
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle)
+- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+
+
+## Mentors and Role Models
+
+- [Adventures in Data Land](http://blog.smola.org)
+- [Shivam Bansal's](http://www.shivambansal.com/)
+- [Data-Mania](http://www.data-mania.com/blog/) - Personal Blog.
+- [Paulo Vasconcellos  -  Cientista de Dados Brasileiro](https://paulovasconcellos.com.br/)
+- [Data-Mania](http://www.data-mania.com/blog/)
+- [Deepkapha](http://tarrysingh.com/)
+
+## Blogs
+
+- [O Estatístico](https://oestatistico.com.br/) - Blog com a missão é promover a estatística de um jeito simples, divertido e ao alcance de todos, como você nunca viu antes.
+- [Pós-Graduando](http://posgraduando.com/blog/) - Conteúdo e humor diário para alunos de Pós-Graduação.
+- [Hackernoon](https://hackernoon.com/) - Hacker Noon é tudo quanto é assunto que os hackers precisam ao meio-dia.
+- [Mining the Social Web](https://miningthesocialweb.com/) - Um complementar do livro com o objetivo simples de integrar o mainstream social de mineração da web.
+- [Becoming a Data Scientist](http://www.becomingadatascientist.com/) - Documentando o caminho de Analista de Dados SQL buscando um Mestrado em Engenharia para Cientista de Dados.
+- [AllThings Data Science](https://allthingsds.wordpress.com/) - Todas as coisas de Ciência de Dados.
+- [The Open Source Data Science Masters](http://datasciencemasters.org/) - O currículo de código aberto para o aprendizado da Ciência de Dados.
+- [Data Science London](http://datasciencelondon.org/) - A Data Science London é uma organização sem fins lucrativos dedicada à divulgação livre e aberta da Ciência de Dados.
+- [Open Source Research](https://openresearch.wordpress.com/) - Estudante de doutorado no campo de Pesquisa Operacional em Berkeley. 
+- [Louis Dorard](http://www.louisdorard.com/blog/) - Um cara de tecnologia com uma queda pela web e por dados, grandes e pequenos.
+- [Data Science Weekly](https://www.datascienceweekly.org/) - Um boletim semanal gratuito com notícias curadas, artigos e trabalhos relacionados à Ciência de Dados.
+- [Revolution Analytics](http://blog.revolutionanalytics.com/) - Notícias diárias sobre o uso do código aberto R para análise de big data, modelagem preditiva, ciência de dados e visualização.
+- [R Bloggers](https://www.r-bloggers.com/) - R-Bloggers.com é um agregador de blogs de conteúdo contribuído por blogueiros que escrevem sobre R.
+- [Datascope Analytics](https://datascopeanalytics.com/blog/) - Consultoria e design orientados por dados.
+- [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) - Reflexões sobre Inteligência Coletiva, Disputas de Dados, Ciência de Dados, Modelagem Preditiva, Start-ups e um repositório de idéias.
+- [KDNuggets](http://www.kdnuggets.com/) - Líder em Análise de Negócios, Big Data, Mineração de Dados, Ciência de Dados e Aprendizado de Máquina.
+- [Dataists](http://www.dataists.com/) - Mais do que ver o seu modelo não possui erros heteroscedásticos.
+- [Data-Magnum](https://data-magnum.com/blog/) - Fornece as informações, a educação e a avaliação necessárias para o planejamento e a implementação bem-sucedida de projetos de Big Data.
+- [The MapR Blog](https://www.mapr.com/blog) - Encontre insights, práticas recomendadas e recursos úteis para ajudar você a aproveitar os dados de forma mais eficaz no crescimento de seus negócios.
+- [P-value](http://www.p-value.info/) - Reflexões sobre ciência de dados, aprendizado de máquina e estatísticas.
+- [DATA MINERS BLOG](http://blog.data-miners.com/) - Um lugar para ler sobre tópicos de interesse para mineradores de dados, fazer perguntas aos especialistas em mineração de dados em data miners.
+- [DATAVERSITY](http://www.dataversity.net/) - Educação de Dados para Negócios e Profissionais de TI.
+- [Ciência e Dados](http://www.cienciaedados.com/) - O objetivo é conversar sobre a fascinante aventura da Ciência de Dados.
+- [Instituto de Inteligência Artificial Aplicada](https://www.datah.com.br/) - É uma organização sem fins lucrativos onde jovens estudantes recebem educação gratuita sobre inteligência artificial, desenvolvem projetos.
+- [BiaData Bussiness](http://www.bigdatabusiness.com.br/) - Informações sobre Big Data.
+- [Portal Action](http://www.portalaction.com.br/) - O maior portal estatístico do Brasil.
+- [HackerRank](https://www.hackerrank.com/) -  É uma plataforma de contratação de tecnologia que é o padrão para avaliar as habilidades dos desenvolvedores para mais de 1.000 empresas em todo o mundo. 
+- [Revista SQL Magazine](https://www.devmedia.com.br/revista-sql-magazine) - Conteúdo sobre SQL.
+- [ClaoudML](http://www.claoudml.co/) - Recursos gratuitos de ciência de dados e aprendizado de máquina.
+- [Vooo](https://www.vooo.pro/insights/category/data-science/) - Notícias e textos sobre Ciência de Dados.
+- [Bitfactor](https://bitfactor.fi/en/blog/) - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
+- [OpenMined](https://openmined.org/) - Uma comunidade de código aberto focada na pesquisa, desenvolvimento e elevação de ferramentas para inteligência artificial segura.
+- [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+
+### YouTube
+
+Below is a list of YouTube Channels, Videos I liked and Playlist to study and keep up to date:
+
+- Canal [Sentdex](https://www.youtube.com/user/sentdex) - Tutoriais de programação em Python, indo além do básico, aprenda sobre aprendizado de máquina, finanças, análise de dados, robótica, desenvolvimento web, desenvolvimento de jogos e muito mais.
+- Canal [Deep Learning Brasil](https://www.youtube.com/channel/UCWg0CObS-JnEtjW69eGh89A) - Tem por objetivo fomentar a disseminação do tema no Brasil.
+- Canal [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured) - Aprenda a desenvolver e construir Inteligência Artificial, Jogos, música, chatbots, arte, utilizando Python.
+- Playlist [Zurubabel](https://www.youtube.com/watch?v=plJw9QFew5A&list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ) - Curso de Programação R.
+- Playlist [Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Classe de Redes Neurais Universidade de Sherbrooke.
+- Playlist [Tomer Ben David](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY) - Cartilha de Ciência de Dados.
+- Playlist [mrshmt](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A) - Aprendendo com os Dados.
+- Playlist [Código Logo - Programação e Inteligência Artificial](https://www.youtube.com/watch?v=hQGeRCBTKGs) - Python Natural Language Processing - Intro to spaCy.
+- Playlist [sentdex](https://www.youtube.com/watch?v=7uhMemi2mFc&index=4&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I) - Introdução e Fundamentos - Tutorial do Python Reddit API Wrapper (PRAW).
+- Playlist [Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
+- Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
+- Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
+- Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) - Uma abordagem de aprendizado de máquina inspirada no cérebro.
+
+### Magazines
+
+Below is a list of favorite sites to stay informed:
+
+- [PCWorld](http://pcworld.com.br/) - Consultor de tecnologia, com análises e guia de produtos, testes, reviews, dicas e download. 
+- [Portal GSTI](https://www.portalgsti.com.br/) - Conteúdo, área para tirar dúvidas, informações sobre vagas de trabalho, concursos e certificações. 
+- [The Next Web](https://thenextweb.com/) - Perspectivas originais e orgulhosamente opinativas sobre histórias notáveis para a Geração T.
+- [Intel IT Center](https://www.intel.la/content/www/xl/es/it-management/intel-it/it-managers.html) - Recursos para Líderes de TI.
+- [indy100: discover](https://www.indy100.com/discover) - Notícias diversas sobre tudo.
+- [Skynet Today](https://www.skynettoday.com/) - Cobertura acessível e informada do mais recente hype AI e Pânico.
+- [Hacker News Bulletin](http://www.hackersnewsbulletin.com/) - Descubra as últimas tendências, novidades interessantes e dicas úteis sobre hackers, hackers, segurança cibernética, tecnologia e anônimos em todo o mundo.
+- [Datatau](http://www.datatau.com/news) - Como Hacker News, mas para dados.
+- [Fossbytes](https://fossbytes.com/) -  Fonte líder de notícias sobre tecnologia, com foco em lançamentos de distro Linux, segurança e notícias sobre hackers, tutoriais, dicas e truques, VPNs e muito mais.
+- [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+- [EPJ Data Science](http://epjdatascience.springeropen.com/) - Plataforma de publicação para abordar essa evolução, reunindo todas as disciplinas acadêmicas relacionadas a ciências.
+- [Journal of Data Science](http://www.jds-online.com/) - Uma revista internacional dedicada a aplicações de métodos estatísticos em geral.
+- [Big Data Research](https://www.journals.elsevier.com/big-data-research) - Tem como objetivo promover e comunicar os avanços na pesquisa de big data , fornecendo um fórum rápido e de alta qualidade para pesquisadores, profissionais e decisores políticos das muitas comunidades diferentes trabalhando com este tópico.
+- [Journal of Big Data](http://journalofbigdata.springeropen.com/) - Publica trabalhos acadêmicos de alta qualidade, metodologias e estudos de caso abrangendo uma ampla gama de tópicos, desde análise de big data a computação intensiva em dados e todas as aplicações de pesquisa em big data.
+- [Big Data & Society](http://journals.sagepub.com/home/bds) - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
+- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
+
+### Medium
+
+Magazine related links:
+
+- [Hackernoon](https://hackernoon.com/) - Hacker Noon Rips Out Medium’s Software, Replaces it With Their Own.
+- [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +598K people. Follow to join our community.
+- [Concretebr](https://medium.com/concretebr) - We develop digital products with innovation, agility and excellent practices, for the Brazilian and Latin American market.
+- [freecodecamp](https://www.freecodecamp.org/news/) - Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+- [geeksforgeeks](https://www.geeksforgeeks.org/) - A Computer Science portal for geeks.
+
+### Good Separate Texts
+- [TOP 20 BIBLIOTECAS PYTHON PARA DATA SCIENCE](http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/)
+- [Grafana com InfluxDB e Telegraf para gerar gráficos](https://www.dobitaobyte.com.br/grafana-com-influxdb-e-telegraf/)
