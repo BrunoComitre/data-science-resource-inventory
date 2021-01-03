@@ -182,7 +182,12 @@ Below is a list of sites to put Python knowledge into practice:
 - [Dask](https://github.com/dask/dask) - Is a flexible parallel computing library for analytics.
 
 
-[Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+- [HTTPX Requests](https://www.python-httpx.org/compatibility/)
+
+
+- [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 
 ### Books
@@ -306,3 +311,9 @@ Magazine related links:
 ### Good Separate Texts
 - [TOP 20 BIBLIOTECAS PYTHON PARA DATA SCIENCE](http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/)
 - [Grafana com InfluxDB e Telegraf para gerar gráficos](https://www.dobitaobyte.com.br/grafana-com-influxdb-e-telegraf/)
+- [Using iloc, loc, & ix to select rows and columns in Pandas DataFrames](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)
+- [Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK](https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/)
+
+- [ANALYZE] [requests-toolbelt](https://pypi.org/project/requests-toolbelt/)
+- [ANALYZE] [nltk](https://github.com/nltk/nltk)
+- [ANALYZE] [stanza](https://github.com/stanfordnlp/stanza)
