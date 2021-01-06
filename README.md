@@ -59,6 +59,7 @@
 repository updates:
 
 - [ ] Open sites and verify that they are active and that they are part of the repository.
+- [ ] Add [EN-US] or [PT-BR] to the links
 
 [GO TO INDEX](#index)
 
