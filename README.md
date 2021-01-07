@@ -285,6 +285,7 @@ Computer Science study projects:
 - [Statistics](https://arxiv.org/archive/stat) [EN-US] - E-prints from Cornell University related to Statistics.
 - [Econometrics](https://www.dicionariofinanceiro.com/econometria/) [PT-BR] - Econometrics is a study that uses mathematical and statistical methods to evaluate theories on economics and finance.
 - [Math and Science Done Right](https://brilliant.org/) [EN-US] - Studies in Mathematics, Science and Engineering through small interactive learning experiences.
+- [Terence Tao Website](https://terrytao.wordpress.com/) [EN-US] - Updates research and expository papers, discussion of open problems, and other maths-related topics.
 
 [GO TO INDEX](#index)
 
@@ -765,6 +766,7 @@ Magazine related links:
 - [geeksforgeeks](https://www.geeksforgeeks.org/) - A Computer Science portal for geeks.
 - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/?ref=datahackers)
 - [Becoming Human](https://becominghuman.ai/)
+- [Daniel Godoy](https://dvgodoy.medium.com/) [EN-US] and [PT-BR]- Data Scientist, developer, teacher and writer. Author of "Deep Learning with PyTorch Step-by-Step: A Beginner’s Guide"
 
 [GO TO INDEX](#index)
 
