@@ -225,6 +225,7 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 Below is a list of favorite sites that have a variety of topics related to computing in general:
 
 - [How to create your Data Scientist portfolio and publicize your work](https://paulovasconcellos.com.br/como-criar-seu-portfolio-de-data-scientist-cc7e6b23b996) [PT-BR]
+- [What’s the Difference Between a Data Analyst, Data Scientist, and Machine Learning Engineer?](https://towardsdatascience.com/data-analyst-vs-data-scientist-2534fc1057c3) [EN-US]
 - [After all, what is Data Science](http://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/) [PT-BR]
 - [Becoming a data scientist - Resume via Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) [EN-US]
 - [What is Data Science](http://www.datascientists.net/what-is-data-science) [EN-US]
@@ -683,6 +684,7 @@ Below is a list of data science issues:
 - [Khan Academy](https://pt.khanacademy.org/)
 - [HackerRank](https://www.hackerrank.com/)
 - [KDnuggets](https://www.kdnuggets.com/news/index.html)
+- [Como funciona a inteligência artificial](https://atozofai.withgoogle.com/intl/pt-BR/) [PT-BR]
 
 [GO TO INDEX](#index)
 
@@ -766,8 +768,9 @@ Magazine related links:
 - [geeksforgeeks](https://www.geeksforgeeks.org/) - A Computer Science portal for geeks.
 - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/?ref=datahackers)
 - [Becoming Human](https://becominghuman.ai/)
-- [Daniel Godoy](https://dvgodoy.medium.com/) [EN-US] and [PT-BR]- Data Scientist, developer, teacher and writer. Author of "Deep Learning with PyTorch Step-by-Step: A Beginner’s Guide"
-
+- [Daniel Godoy](https://dvgodoy.medium.com/) [EN-US] and [PT-BR] - Data Scientist, developer, teacher and writer. Author of "Deep Learning with PyTorch Step-by-Step: A Beginner’s Guide"
+- [Be a Data Scientist](https://medium.com/@meigarom) [PT-BR]
+- [I played the dice](https://medium.com/joguei-os-dados) [PT-BR] - Statistics, Python, Machine Learning: sketches & projects by a Data Scientist journalist.
 [GO TO INDEX](#index)
 
 <br />
@@ -836,6 +839,7 @@ Below is a list of sites that have a variety of datasets for study and learning:
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch) [EN-US] - Google Data Sets.
 - [Brazil Datasets](https://brasil.io/datasets) [EN-US] - Brazilian Data Set.
 - [Kaggle Datasets](https://www.kaggle.com/datasets) [EN-US] - Kaggle Dataset.
+- [Datasets](https://github.com/huggingface/datasets) [EN-US] - Is a lightweight library providing two main features.
 
 [GO TO INDEX](#index)
 
