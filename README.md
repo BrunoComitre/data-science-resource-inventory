@@ -266,6 +266,7 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [Noah Weber](https://www.kaggle.com/zikazika/notebooks)
 - [ClaoudML](https://www.claoudml.com/)
 - [Shane Lynn](https://www.shanelynn.ie/)
+- [Andrew Ng](https://www.andrewng.org/)
 
 [GO TO INDEX](#index)
 
