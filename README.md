@@ -4,7 +4,7 @@
 
 **[WARNING]** *The links cited here were extracted from various sites and are for study use, I am sharing them so that as well as I can learn, I hope I have not infringed any copyright; and if your website, repository or any other link is here and the owner would not like it to be, please contact us so you can withdraw* **!THANKS FOR UNDERSTANDING!**
 
-<u>*This part is for Young Padawans or Jedi in  Data Science*</u>
+<u>*This part is for Younger Padawans or Jedi in  Data Science*</u>
 
 <br />
 
